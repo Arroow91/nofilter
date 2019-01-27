@@ -1,0 +1,166 @@
+.hs_recent_popular_tab_widget_content {
+    
+}
+.hs_recent_popular_tab_widget_content img {
+    max-width: 100%;
+    height: auto;
+}
+.hs_recent_popular_tab_widget_content ul.hs-recent-popular-tabs li {
+    list-style: none;
+    display: block;
+    width: 50%;
+    float: left;
+    text-align: center;
+    margin: 0;
+    padding: 0 !important;
+}
+.hs_recent_popular_tab_widget_content ul.has-1-tabs li {
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+}
+.hs_recent_popular_tab_widget_content ul.has-2-tabs li {
+
+}
+.hs_recent_popular_tab_widget_content ul.has-3-tabs li { width: 33.33% }
+.hs_recent_popular_tab_widget_content ul.has-4-tabs li { width: 25% }
+.hs_recent_popular_tab_widget_content .tab_title a {
+    display: block;
+    background: #f9f9f9;
+    border-left: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    line-height: 60px;
+    text-decoration: none;
+    position: relative;
+letter-spacing: 0.5px;
+font-size: 10px;
+color: #444;
+}
+.hs_recent_popular_tab_widget_content .tab_title:first-child a {
+    margin-left: 0;
+    border-left: 0;
+}
+.hs_recent_popular_tab_widget_content .tab_title.selected a {
+    background: #fff;
+}
+.hs_recent_popular_tab_widget_content .inside {
+    padding-top: 10px;
+}
+.footer .hs_recent_popular_tab_widget_content .inside {
+    padding-top: 0px;
+}
+.hs_recent_popular_tab_widget_content .tab-content {
+    overflow: hidden;
+    padding: 0px;
+    border:0;
+}
+.hs_recent_popular_tab_widget_content .tab-content ul {
+text-align:left;
+}
+.hs_recent_popular_tab_widget_content .tab-content li {
+    list-style-type: none;
+    display:inline-block;
+	*display: inline;
+	vertical-align: top;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 12px 0;
+	text-align: center;
+    padding: 0px 0px 10px 0px;
+    border-bottom: 1px solid #f9f9f9;
+    background: none;
+    position: relative;
+	opacity:1;
+}
+.hs_recent_popular_tab_widget_content .tab-content .post-list_h {opacity:1;}
+.hs_recent_popular_tab_widget_content.hs-recent-popular-tab-loading .tab-content .post-list_h {opacity:0;}
+.hs_recent_popular_tab_widget_content .tab-content li.horizontal-layout {border-bottom:0;width: 33.1%;}
+.hs_recent_popular_tab_widget_content .tab-content li:last-child {
+    border: none;
+    margin-bottom: 0;
+}
+.hs_recent_popular_tab_thumb_small {
+    float: left;
+    margin-right: 12px;
+    padding-top: 4px;
+    width: 65px;
+    height: 65px;
+    overflow: hidden;
+}
+.hs_recent_popular_tab_thumb_large {
+    float: none;
+    max-width: 100%;
+    display: inline-block;
+    margin-bottom: 4px;
+    position: relative;
+}
+.hs_recent_popular_tab_widget_content .entry-title {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.hs_recent_popular_tab_widget_content .hs-recent-popular-tab-postmeta {
+    color: #999;
+    font-size: 13px;
+    float: right;
+    margin-top: 5px;
+}
+.hs_recent_popular_tab_widget_content .wp-post-image { margin: 0 !important }
+/* Pagination */
+.hs_recent_popular_tab_widget_content .hs-recent-popular-tab-pagination {
+    margin: 0;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 0px;
+	border-top: 1px solid #f9f9f9;
+	text-align:right;
+}
+.hs_recent_popular_tab_widget_content .hs-recent-popular-tab-pagination a { margin: 0;padding: 2px 8px;border: 1px solid #eee; }
+.hs-recent-popular-tab-pagination a.next { display: inline-block; }
+.hs-recent-popular-tab-pagination a.previous { display: inline-block; }
+/* Loading... */
+.hs-recent-popular-tab-loading { min-height: 120px }
+.hs_recent_popular_tab_widget_content.hs-recent-popular-tab-loading .tab-content li {opacity:0;}
+.clear { clear: both }
+.hs-recent-popular-tab-loading:after {
+    content: "";
+    margin: 0 auto 3em auto;
+    font-size: 10px;
+    position: absolute;
+    top: 50%;
+    left: 49%;
+    z-index: 12;
+    text-indent: -9999em;
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    border-left: 1px solid #000;
+    -webkit-animation: load8 0.5s infinite linear;
+    animation: load8 0.5s infinite linear;
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+}
+@-webkit-keyframes load8 { 
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+@keyframes load8 { 
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.hs_recent_popular_tab_widget_content .has-4-tabs .tab_title.selected a { border-bottom: 1px solid #E4E4E4 }
+.title-right { overflow: hidden }

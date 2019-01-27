@@ -1,0 +1,28 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">gallery</custom-type>
+		<custom-type translate="1">faq</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">gallery_categories</taxonomy>
+		<taxonomy translate="1">faq_categories</taxonomy>
+	</taxonomies>
+  <admin-texts>
+    <key name="buzzblogpro_options">
+      <key name="promo-areaslides">
+        <key name="0">
+          <key name="title"/>
+        </key>
+        <key name="1">
+          <key name="title"/>
+        </key>
+        <key name="2">
+          <key name="title"/>
+        </key>
+        <key name="3">
+          <key name="title"/>
+        </key>
+      </key>
+    </key>
+  </admin-texts>
+</wpml-config>
