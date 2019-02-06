@@ -1,0 +1,47 @@
+.cmb-type-radio-image .cmb2-radio-list {
+                    display: block;
+                    clear: both;
+                    overflow: hidden;
+                }
+                .cmb-type-radio-image .cmb2-radio-list input[type="radio"] {
+                    display: none;
+                }
+                .cmb-type-radio-image .cmb2-radio-list li {
+                    display: inline-block;
+                    margin-bottom: 0;
+                }
+                .cmb-type-radio-image .cmb2-radio-list input[type="radio"] + label img {
+                    border: 3px solid #eee;
+                    display: block;padding: 5px;
+                }
+                .cmb-type-radio-image .cmb2-radio-list input[type="radio"] + label:hover  img,
+                .cmb-type-radio-image .cmb2-radio-list input[type="radio"]:checked + label  img {
+                    border-color: #ccc;
+                }
+                .cmb-type-radio-image .cmb2-radio-list li label img {
+                    display: block;
+                }
+				.cmb2-id--buzzblogpro-category-layout-format label {vertical-align: top;}
+				.cmb-type-radio-image .cmb2-radio-list li label span {
+				font-size: 11px;
+display: block;
+text-align: center;
+margin-top: 8px;
+line-height: 13px;
+max-width: 100px;
+min-height: 30px;
+}
+
+.cmb2-wrap .button-secondary {
+    color: #555;
+    border-color: #eee;
+    background: #fff;
+    box-shadow: unset;
+    vertical-align: top;
+	border-radius: 0;
+	text-transform: uppercase;
+	height: auto;
+	font-size: 12px;
+line-height: 26px;
+padding: 12px 20px;
+}

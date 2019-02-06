@@ -1,0 +1,52 @@
+/**
+ * TinyMCE Admin Editor Styling 
+ */
+.wp-caption-dd {
+	font-size: inherit;
+	font-style: italic;
+	text-align: center;
+}
+
+.row:after {
+    left: -7px!important;
+	}
+
+.mce-content-body .row[contentEditable="false"] .col[contentEditable="true"]:hover {
+-webkit-box-shadow: inset 0px 0px 1px 1px rgba(221,221,221,1)!important;
+-moz-box-shadow: inset 0px 0px 1px 1px rgba(221,221,221,1)!important;
+box-shadow: inset 0px 0px 1px 1px rgba(221,221,221,1)!important;
+}
+.row:hover:after { opacity: 1; cursor: move!important; }
+blockquote {
+padding: 40px 30px 30px 30px;
+border: 0;
+font-size: 23px;
+line-height: 36px;
+text-align:center;
+font-style: italic;
+font-family:Georgia, serif;
+position: relative;
+display: block;
+clear: both;
+}
+blockquote p::before{
+  content: "\201C"; /*Unicode for Left Double Quote*/
+  /*Font*/
+  font-size: 80px;
+line-height: 20px;
+font-style: normal;
+text-align:left;
+}
+blockquote p::after{
+  content: "\201D"; /*Unicode for Left Double Quote*/
+  /*Font*/
+  font-size: 80px;
+line-height: 45px;
+font-style: normal;
+text-align:right;
+position: absolute;
+bottom: -0.4em;
+}
+.img-circle {
+    border-radius: 50%;
+}
