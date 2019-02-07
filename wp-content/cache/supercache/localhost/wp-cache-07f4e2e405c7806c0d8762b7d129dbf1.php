@@ -45,11 +45,10 @@ img.emoji {
 <link rel='stylesheet' id='customize-preview-css'  href='http://localhost/nofilter/wp-includes/css/customize-preview.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/nofilter/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='contact-form-7-css'  href='http://localhost/nofilter/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
-<link rel='stylesheet' id='wordfenceAJAXcss-css'  href='http://localhost/nofilter/wp-content/plugins/wordfence/css/wordfenceBox.1546968199.css' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-css'  href='http://localhost/nofilter/wp-content/themes/buzzblogpro/bootstrap/bootstrap.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='buzzblogpro-style-css'  href='http://localhost/nofilter/wp-content/themes/buzzblogpro/style.css' type='text/css' media='all' />
 <style id='buzzblogpro-style-inline-css' type='text/css'>
-@media (min-width: 1200px) {.container{max-width: 1200px;}.fullwidth-widget .form-inline {max-width: 1200px;}}@media(max-width:767px){.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 200px!important;}}@media only screen and (min-width:768px) and (max-width:991px) {.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 300px!important;}}@media(min-width:992px){.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 450px!important;}}@media(min-width:1200px){.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 600px!important;}}@media(min-width:1367px){.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 600px!important;}}.primary-menu .has-mega-sub-menu .mega-sub-menu {min-height:476px;}.logo img {width:350px;}.footer-logo .logo img {width:284px;}#primary {border-top-color:#eeeeee}#primary {border-bottom-color:#eeeeee}#primary {border-top-width:0px;}#primary {border-bottom-width:0px;}.lowestfooter {border-top-color:#eeeeee}.header-overlay {background:rgba(255,255,255,0.48)}.parallax-image .header-overlay, .parallax-image:before {background:rgba(0,0,0,0.22)}.primary-menu ul li:not(.buzzblogpro-widget-menu) > ul {top:-0px}.owl-slide .cover-wrapper.slide-sub-item-large {border-right-color: ;}.owl-slide .cover-wrapper.slide-sub-item-small.middle {border-bottom-color: ;}.owl-slide .cover-wrapper.slide-sub-item-small.last {border-top-color: ;}.top-slideshow .cover:before {background: linear-gradient(to bottom, transparent 40%, #000000 100%)} .top-slideshow .cover:before{opacity: 0.27;}body { background-color:#ffffff;}.post_category:after, .hs_aboutme_text span, .slide-category span, .widget-content h4.subtitle span, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .title-section span, .heading-entrance span {border-top-color:#000000}.error404-holder_num, .twitter-list i, .hercules-likes:hover:before, .hercules-likes.active:before {color:#000000}.icon-menu .icon-menu-count, .audioplayer-bar-played, .audioplayer-volume-adjust div div, #back-top a:hover span, .owl-carousel .owl-dots .owl-dot.active span, .owl-carousel .owl-dots .owl-dot:hover span, .link-image a .link-wrapper, .widget_calendar tbody a, .text-highlight, div.jp-play-bar, div.jp-volume-bar-value, .progress .bar, .buzzblogpro-cart .badge, .mobile-shopping-cart .badge, .share-buttons .heart span {background:#000000}.hs_recent_popular_tab_widget_content .tab_title.selected a, .search-option-tab li:hover a,.search-option-tab li.active a {border-bottom: 1px solid #000000}.primary-menu ul li:not(.buzzblogpro-widget-menu):hover > a, .primary-menu .has-mega-column:not(.widget-in-menu) > .sub-menu a:hover, .primary-menu .has-mega-column > .sub-menu > .columns-sub-item > a:hover { color:#000000}.primary-menu ul li.current-menu-item:not(.buzzblogpro-widget-menu) > a, .primary-menu .has-mega-column:not(.widget-in-menu) > .sub-menu .current-menu-item > a { color:#000000}.menu-mobile ul li.current-menu-item > a, .menu-mobile ul li.current-menu-ancestor > a { color:#d8d8d8}.primary-menu > li > a:hover, .primary-menu > li.current-menu-item > a, .primary-menu > li.current-menu-ancestor > a, .primary-menu li:hover > a, .primary-menu .mega-menu-posts .post a:hover { color:#c5b8a5}.primary-menu > li.current-menu-item > a, .primary-menu > li.current-menu-ancestor > a { color:#c5b8a5}.primary-menu > li > a {background:#000000}.primary-menu > li > a:hover, .primary-menu > li.current-menu-item > a, .primary-menu > li.current-menu-ancestor > a, .primary-menu li:hover > a { background:#000000}.primary-menu > li.current-menu-item > a, .primary-menu > li.current-menu-ancestor > a { background:#000000}.primary-menu > li.current-menu-ancestor, .primary-menu > li:hover, .primary-menu > li.current_page_item, .primary-menu > li.current-menu-item {border-top: 1px solid transparent;}.primary-menu ul li:not(.buzzblogpro-widget-menu) a, .primary-menu .has-mega-sub-menu .mega-sub-menu ul, .primary-menu .has-mega-column > .sub-menu > .columns-sub-item > a, #cart-wrap {border-color:#eeeeee}#top-menu ul {background:rgba(255,255,255,1)}#top-menu ul a, #top-menu .current_page_item ul a, #top-menu ul .current_page_item a, #top-menu .current-menu-item ul a, #top-menu ul .current-menu-item a, #top-menu li:hover > ul a {border-color:#ffffff}.top-border {background:#ffffff}.modern-layout .meta-space-top a, .modern-layout .meta-space-top, .modern-layout .post_category a, .modern-layout .meta-space-top, .parallax-image .category-box span, .parallax-image .category-filter a, .parallax-image .cat-des, .parallax-image .title-section h2 {color:#ffffff}.modern-layout h1.post-title, .parallax-image .title-section h1 {color:#ffffff}.ribbon-featured {color:#000000}.ribbon-featured {background:#f9f9f9}.category-filter ul li.current-cat a { color: #ffffff}#cart-wrap .but-cart, .sidebar .social__list a, .footer .social__list a, .footer .social__list_both a, .sidebar .social__list_both a, .footer .instagram-footer .readmore-button a, a.btn, a.comment-reply-link, input[type="submit"], input[type="button"], .category-filter ul li a, .woocommerce #review_form #respond .form-submit input, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce div.product form.cart .button, .woocommerce #respond input#submit, .woocommerce #respond input#submit.alt, .woocommerce a.button, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce button.button, .woocommerce input.button { border-color: #000000}#cart-wrap .but-cart:hover, .footer .instagram-footer .readmore-button a:hover, a.comment-reply-link:hover, input[type="submit"]:hover, input[type="button"]:hover, .btn-default.active, .btn-default.focus, .btn-default:active, .btn-default:focus, .btn-default:hover, .open > .dropdown-toggle.btn-default, .category-filter ul li.current-cat a, .category-filter ul li a:hover, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce div.product form.cart .button:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce button.button:hover, .woocommerce input.button:hover { border-color: #c5b8a5}#cart-wrap .but-cart, .footer .instagram-footer .readmore-button a, a.btn, a.comment-reply-link, input[type="submit"], input[type="button"], .category-filter ul li a, .woocommerce #review_form #respond .form-submit input, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce div.product form.cart .button, .woocommerce #respond input#submit, .woocommerce #respond input#submit.alt, .woocommerce a.button, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce button.button, .woocommerce input.button { background: #000000}#cart-wrap .but-cart:hover, .footer .instagram-footer .readmore-button a:hover, a.comment-reply-link:hover, input[type="submit"]:hover, input[type="button"]:hover, .btn-default.active, .btn-default.focus, .btn-default:active, .btn-default:focus, .btn-default:hover, .open > .dropdown-toggle.btn-default, .category-filter ul li.current-cat a, .category-filter ul li a:hover, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce div.product form.cart .button:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce button.button:hover, .woocommerce input.button:hover { background: #c5b8a5}.viewpost-button a.button { border-color: #000000}.viewpost-button a.button:hover { border-color: #f9f9f9}.viewpost-button a.button { background: #000000}.viewpost-button a.button:hover { background: #f9f9f9}a.slideshow-btn { border-color: #000000}a.slideshow-btn:hover { border-color: #ffffff}a.slideshow-btn { background: #000000}a.slideshow-btn:hover { background: #ffffff}.page-numbers li a { border-color: #000000}.page-numbers .current { color: #ffffff}.page-numbers .current { border-color: #000000}.page-numbers .current { background: #000000}.page-numbers li a:hover { border-color: #000000}.page-numbers li a { background: #ffffff}.page-numbers li a:hover { background: #000000}.icon-menu a { line-height: 20px;}.icon-menu a { color: #ffffff;}.nav-icon4 span, .nav-icon4 span:before, .nav-icon4 span:after { background-color: #ffffff;}
+@media (min-width: 1200px) {.container{max-width: 1200px;}.fullwidth-widget .form-inline {max-width: 1200px;}}@media(max-width:767px){.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 400px!important;}}@media only screen and (min-width:768px) and (max-width:991px) {.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 500px!important;}}@media(min-width:992px){.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 650px!important;}}@media(min-width:1200px){.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 1000px!important;}}@media(min-width:1367px){.middle-boxed .owl-slide .cover-wrapper, .middle .owl-slide .cover-wrapper, .bottom .owl-slide .cover-wrapper, .normal-slideshow .cover-wrapper {height: 1000px!important;}}.primary-menu .has-mega-sub-menu .mega-sub-menu {min-height:476px;}.logo img {width:350px;}.footer-logo .logo img {width:284px;}#primary {border-top-color:#eeeeee}#primary {border-bottom-color:#eeeeee}#primary {border-top-width:0px;}#primary {border-bottom-width:0px;}.lowestfooter {border-top-color:#eeeeee}.header-overlay {background:rgba(255,255,255,0.48)}.parallax-image .header-overlay, .parallax-image:before {background:rgba(0,0,0,0.22)}.primary-menu ul li:not(.buzzblogpro-widget-menu) > ul {top:-0px}.owl-slide .cover-wrapper.slide-sub-item-large {border-right-color: ;}.owl-slide .cover-wrapper.slide-sub-item-small.middle {border-bottom-color: ;}.owl-slide .cover-wrapper.slide-sub-item-small.last {border-top-color: ;}.top-slideshow .cover:before {background: linear-gradient(to bottom, transparent 40%, #000000 100%)} .top-slideshow .cover:before{opacity: 0.27;}body { background-color:#ffffff;}.post_category:after, .hs_aboutme_text span, .slide-category span, .widget-content h4.subtitle span, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, .title-section span, .heading-entrance span {border-top-color:#000000}.error404-holder_num, .twitter-list i, .hercules-likes:hover:before, .hercules-likes.active:before {color:#000000}.icon-menu .icon-menu-count, .audioplayer-bar-played, .audioplayer-volume-adjust div div, #back-top a:hover span, .owl-carousel .owl-dots .owl-dot.active span, .owl-carousel .owl-dots .owl-dot:hover span, .link-image a .link-wrapper, .widget_calendar tbody a, .text-highlight, div.jp-play-bar, div.jp-volume-bar-value, .progress .bar, .buzzblogpro-cart .badge, .mobile-shopping-cart .badge, .share-buttons .heart span {background:#000000}.hs_recent_popular_tab_widget_content .tab_title.selected a, .search-option-tab li:hover a,.search-option-tab li.active a {border-bottom: 1px solid #000000}.primary-menu ul li:not(.buzzblogpro-widget-menu):hover > a, .primary-menu .has-mega-column:not(.widget-in-menu) > .sub-menu a:hover, .primary-menu .has-mega-column > .sub-menu > .columns-sub-item > a:hover { color:#000000}.primary-menu ul li.current-menu-item:not(.buzzblogpro-widget-menu) > a, .primary-menu .has-mega-column:not(.widget-in-menu) > .sub-menu .current-menu-item > a { color:#000000}.menu-mobile ul li.current-menu-item > a, .menu-mobile ul li.current-menu-ancestor > a { color:#d8d8d8}.primary-menu > li > a:hover, .primary-menu > li.current-menu-item > a, .primary-menu > li.current-menu-ancestor > a, .primary-menu li:hover > a, .primary-menu .mega-menu-posts .post a:hover { color:#c5b8a5}.primary-menu > li.current-menu-item > a, .primary-menu > li.current-menu-ancestor > a { color:#c5b8a5}.primary-menu > li > a {background:#000000}.primary-menu > li > a:hover, .primary-menu > li.current-menu-item > a, .primary-menu > li.current-menu-ancestor > a, .primary-menu li:hover > a { background:#000000}.primary-menu > li.current-menu-item > a, .primary-menu > li.current-menu-ancestor > a { background:#000000}.primary-menu > li.current-menu-ancestor, .primary-menu > li:hover, .primary-menu > li.current_page_item, .primary-menu > li.current-menu-item {border-top: 1px solid transparent;}.primary-menu ul li:not(.buzzblogpro-widget-menu) a, .primary-menu .has-mega-sub-menu .mega-sub-menu ul, .primary-menu .has-mega-column > .sub-menu > .columns-sub-item > a, #cart-wrap {border-color:#eeeeee}#top-menu ul {background:rgba(255,255,255,1)}#top-menu ul a, #top-menu .current_page_item ul a, #top-menu ul .current_page_item a, #top-menu .current-menu-item ul a, #top-menu ul .current-menu-item a, #top-menu li:hover > ul a {border-color:#ffffff}.top-border {background:#ffffff}.modern-layout .meta-space-top a, .modern-layout .meta-space-top, .modern-layout .post_category a, .modern-layout .meta-space-top, .parallax-image .category-box span, .parallax-image .category-filter a, .parallax-image .cat-des, .parallax-image .title-section h2 {color:#ffffff}.modern-layout h1.post-title, .parallax-image .title-section h1 {color:#ffffff}.ribbon-featured {color:#000000}.ribbon-featured {background:#f9f9f9}.category-filter ul li.current-cat a { color: #ffffff}#cart-wrap .but-cart, .sidebar .social__list a, .footer .social__list a, .footer .social__list_both a, .sidebar .social__list_both a, .footer .instagram-footer .readmore-button a, a.btn, a.comment-reply-link, input[type="submit"], input[type="button"], .category-filter ul li a, .woocommerce #review_form #respond .form-submit input, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce div.product form.cart .button, .woocommerce #respond input#submit, .woocommerce #respond input#submit.alt, .woocommerce a.button, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce button.button, .woocommerce input.button { border-color: #000000}#cart-wrap .but-cart:hover, .footer .instagram-footer .readmore-button a:hover, a.comment-reply-link:hover, input[type="submit"]:hover, input[type="button"]:hover, .btn-default.active, .btn-default.focus, .btn-default:active, .btn-default:focus, .btn-default:hover, .open > .dropdown-toggle.btn-default, .category-filter ul li.current-cat a, .category-filter ul li a:hover, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce div.product form.cart .button:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce button.button:hover, .woocommerce input.button:hover { border-color: #c5b8a5}#cart-wrap .but-cart, .footer .instagram-footer .readmore-button a, a.btn, a.comment-reply-link, input[type="submit"], input[type="button"], .category-filter ul li a, .woocommerce #review_form #respond .form-submit input, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce div.product form.cart .button, .woocommerce #respond input#submit, .woocommerce #respond input#submit.alt, .woocommerce a.button, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce button.button, .woocommerce input.button { background: #000000}#cart-wrap .but-cart:hover, .footer .instagram-footer .readmore-button a:hover, a.comment-reply-link:hover, input[type="submit"]:hover, input[type="button"]:hover, .btn-default.active, .btn-default.focus, .btn-default:active, .btn-default:focus, .btn-default:hover, .open > .dropdown-toggle.btn-default, .category-filter ul li.current-cat a, .category-filter ul li a:hover, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce div.product form.cart .button:hover, .woocommerce #respond input#submit:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce button.button:hover, .woocommerce input.button:hover { background: #c5b8a5}.viewpost-button a.button { border-color: #000000}.viewpost-button a.button:hover { border-color: #f9f9f9}.viewpost-button a.button { background: #000000}.viewpost-button a.button:hover { background: #f9f9f9}a.slideshow-btn { border-color: #000000}a.slideshow-btn:hover { border-color: #ffffff}a.slideshow-btn { background: #000000}a.slideshow-btn:hover { background: #ffffff}.page-numbers li a { border-color: #000000}.page-numbers .current { color: #ffffff}.page-numbers .current { border-color: #000000}.page-numbers .current { background: #000000}.page-numbers li a:hover { border-color: #000000}.page-numbers li a { background: #ffffff}.page-numbers li a:hover { background: #000000}.icon-menu a { line-height: 20px;}.icon-menu a { color: #ffffff;}.nav-icon4 span, .nav-icon4 span:before, .nav-icon4 span:after { background-color: #ffffff;}
 </style>
 <link rel='stylesheet' id='buzzblogpro-child-style-css'  href='http://localhost/nofilter/wp-content/themes/buzzblogpro-child/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='mediaelement-css'  href='http://localhost/nofilter/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
@@ -60,7 +59,6 @@ img.emoji {
 <!--[if lt IE 8]>
 <script type='text/javascript' src='http://localhost/nofilter/wp-includes/js/json2.min.js'></script>
 <![endif]-->
-<script type='text/javascript' src='http://localhost/nofilter/wp-content/plugins/wordfence/js/admin.ajaxWatcher.1546968199.js'></script>
 <script type='text/javascript'>
 var mejsL10n = {"language":"fr","strings":{"mejs.install-flash":"Vous utilisez un navigateur qui n\u2019a pas le lecteur Flash activ\u00e9 ou install\u00e9. Veuillez activer votre extension Flash ou t\u00e9l\u00e9charger la derni\u00e8re version \u00e0 partir de cette adresse\u00a0: https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Quitter le plein \u00e9cran","mejs.fullscreen-on":"Passer en plein \u00e9cran","mejs.download-video":"T\u00e9l\u00e9charger la vid\u00e9o","mejs.fullscreen":"Plein \u00e9cran","mejs.time-jump-forward":["Saut en avant d\u20191 seconde","Avancer de %1 secondes"],"mejs.loop":"Lire en boucle","mejs.play":"Lecture","mejs.pause":"Pause","mejs.close":"Fermer","mejs.time-slider":"Curseur de temps","mejs.time-help-text":"Utilisez les fl\u00e8ches droite\/gauche pour avancer d\u2019une seconde, haut\/bas pour avancer de dix secondes.","mejs.time-skip-back":["Revenir une seconde en arri\u00e8re","Saut en arri\u00e8re de %1 seconde(s)"],"mejs.captions-subtitles":"L\u00e9gendes\/Sous-titres","mejs.captions-chapters":"Chapitres","mejs.none":"Aucun","mejs.mute-toggle":"Couper le son","mejs.volume-help-text":"Utilisez les fl\u00e8ches haut\/bas pour augmenter ou diminuer le volume.","mejs.unmute":"R\u00e9activer le son","mejs.mute":"Muet","mejs.volume-slider":"Curseur de volume","mejs.video-player":"Lecteur vid\u00e9o","mejs.audio-player":"Lecteur audio","mejs.ad-skip":"Passer la publicit\u00e9","mejs.ad-skip-info":["Passer dans %1 seconde","Passer dans %1 secondes"],"mejs.source-chooser":"S\u00e9lecteur de source","mejs.stop":"Arr\u00eater","mejs.speed-rate":"Taux de vitesse","mejs.live-broadcast":"\u00c9mission en direct","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanais","mejs.arabic":"Arabe","mejs.belarusian":"Bi\u00e9lorusse","mejs.bulgarian":"Bulgare","mejs.catalan":"Catalan","mejs.chinese":"Chinois","mejs.chinese-simplified":"Chinois (simplifi\u00e9)","mejs.chinese-traditional":"Chinois (traditionnel)","mejs.croatian":"Croate","mejs.czech":"Tch\u00e8que","mejs.danish":"Danois","mejs.dutch":"N\u00e9erlandais","mejs.english":"Anglais","mejs.estonian":"Estonien","mejs.filipino":"Filipino","mejs.finnish":"Terminer","mejs.french":"Fran\u00e7ais","mejs.galician":"Galicien","mejs.german":"Allemand","mejs.greek":"Grec","mejs.haitian-creole":"Cr\u00e9ole ha\u00eftien","mejs.hebrew":"H\u00e9breu","mejs.hindi":"Hindi","mejs.hungarian":"Hongrois","mejs.icelandic":"Islandais","mejs.indonesian":"Indon\u00e9sien","mejs.irish":"Irlandais","mejs.italian":"Italien","mejs.japanese":"Japonais","mejs.korean":"Cor\u00e9en","mejs.latvian":"Letton","mejs.lithuanian":"Lituanien","mejs.macedonian":"Mac\u00e9donien","mejs.malay":"Malais","mejs.maltese":"Maltais","mejs.norwegian":"Norv\u00e9gien","mejs.persian":"Perse","mejs.polish":"Polonais","mejs.portuguese":"Portugais","mejs.romanian":"Roumain","mejs.russian":"Russe","mejs.serbian":"Serbe","mejs.slovak":"Slovaque","mejs.slovenian":"Slov\u00e9nien","mejs.spanish":"Espagnol","mejs.swahili":"Swahili","mejs.swedish":"Su\u00e9dois","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turc","mejs.ukrainian":"Ukrainien","mejs.vietnamese":"Vietnamien","mejs.welsh":"Ga\u00e9lique","mejs.yiddish":"Yiddish"}};
 </script>
@@ -135,24 +133,15 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 <div class="st-menu st-effect-4 sidepanel" id="menu-4">
 		<div class="menu-container">
     <div class="menu-mobile">
-      <div  data-customize-partial-id="nav_menu_instance[3a2fb493f2287219aa306eec62457de1]" data-customize-partial-type="nav_menu_instance" data-customize-partial-placement-context="{&quot;after&quot;:&quot;&quot;,&quot;before&quot;:&quot;&quot;,&quot;can_partial_refresh&quot;:true,&quot;container&quot;:&quot;div&quot;,&quot;container_class&quot;:&quot;&quot;,&quot;container_id&quot;:&quot;&quot;,&quot;depth&quot;:0,&quot;echo&quot;:true,&quot;fallback_cb&quot;:&quot;wp_page_menu&quot;,&quot;item_spacing&quot;:&quot;preserve&quot;,&quot;items_wrap&quot;:&quot;&lt;ul id=\&quot;%1$s\&quot; class=\&quot;%2$s\&quot;&gt;%3$s&lt;\/ul&gt;&quot;,&quot;link_after&quot;:&quot;&quot;,&quot;link_before&quot;:&quot;&quot;,&quot;menu&quot;:&quot;&quot;,&quot;menu_class&quot;:&quot;menu&quot;,&quot;menu_id&quot;:&quot;&quot;,&quot;theme_location&quot;:&quot;mobile_menu&quot;,&quot;walker&quot;:&quot;&quot;,&quot;args_hmac&quot;:&quot;3a2fb493f2287219aa306eec62457de1&quot;}" class="menu-mega-new-menu-container"><ul id="menu-mega-new-menu" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8702"><a href="http://localhost/nofilter/category/beauty/">Inspiration</a>
+      <div  data-customize-partial-id="nav_menu_instance[3a2fb493f2287219aa306eec62457de1]" data-customize-partial-type="nav_menu_instance" data-customize-partial-placement-context="{&quot;after&quot;:&quot;&quot;,&quot;before&quot;:&quot;&quot;,&quot;can_partial_refresh&quot;:true,&quot;container&quot;:&quot;div&quot;,&quot;container_class&quot;:&quot;&quot;,&quot;container_id&quot;:&quot;&quot;,&quot;depth&quot;:0,&quot;echo&quot;:true,&quot;fallback_cb&quot;:&quot;wp_page_menu&quot;,&quot;item_spacing&quot;:&quot;preserve&quot;,&quot;items_wrap&quot;:&quot;&lt;ul id=\&quot;%1$s\&quot; class=\&quot;%2$s\&quot;&gt;%3$s&lt;\/ul&gt;&quot;,&quot;link_after&quot;:&quot;&quot;,&quot;link_before&quot;:&quot;&quot;,&quot;menu&quot;:&quot;&quot;,&quot;menu_class&quot;:&quot;menu&quot;,&quot;menu_id&quot;:&quot;&quot;,&quot;theme_location&quot;:&quot;mobile_menu&quot;,&quot;walker&quot;:&quot;&quot;,&quot;args_hmac&quot;:&quot;3a2fb493f2287219aa306eec62457de1&quot;}" class="menu-mega-new-menu-container"><ul id="menu-mega-new-menu" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-8753"><a href="http://localhost/nofilter">nofilter</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8709"><a href="http://localhost/nofilter/category/lifestyle/">Lifestyle</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8712"><a href="http://localhost/nofilter/category/beauty/">Inspiration</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8719"><a href="http://localhost/nofilter/category/lifestyle/">Lifestyle</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8703"><a href="http://localhost/nofilter/category/travel/">Travel</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8708"><a href="http://localhost/nofilter/category/arts/">Arts</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8713"><a href="http://localhost/nofilter/category/travel/">Travel</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8704"><a href="http://localhost/nofilter/category/personal/">Personal</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8714"><a href="http://localhost/nofilter/category/personal/">Personal</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8705"><a href="http://localhost/nofilter/category/fashion/">Fashion</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8715"><a href="http://localhost/nofilter/category/fashion/">Fashion</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8718"><a href="http://localhost/nofilter/category/arts/">Arts</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8706"><a href="http://localhost/nofilter/category/musique/">Musique</a>
@@ -163,16 +152,6 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8707"><a href="http://localhost/nofilter/category/societe/">Société</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8717"><a href="http://localhost/nofilter/category/societe/">Société</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8708"><a href="http://localhost/nofilter/category/arts/">Arts</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8718"><a href="http://localhost/nofilter/category/arts/">Arts</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8709"><a href="http://localhost/nofilter/category/lifestyle/">Lifestyle</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8719"><a href="http://localhost/nofilter/category/lifestyle/">Lifestyle</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-8710"><a href="http://localhost/nofilter/category/sciences/">Sciences</a>
@@ -276,24 +255,15 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
  
 <nav id="primary" class="sidemenu sidemenu-off top-icon-wrap" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
 	
-				<ul id="primary-menu" class="primary-menu"><li id='menu-item-8702' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="3" data-tax="category" data-itemid="8702" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/beauty/">Inspiration</a> 
+				<ul id="primary-menu" class="primary-menu"><li id='menu-item-8753' class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home" ><a  href="http://localhost/nofilter">nofilter</a> </li>
+<li id='menu-item-8709' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="38" data-tax="category" data-itemid="8709" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/lifestyle/">Lifestyle</a> 
 <ul class="sub-menu">
-<li id='menu-item-8712' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="3" data-tax="category" data-itemid="8712" ><a  href="http://localhost/nofilter/category/beauty/">Inspiration</a> </li>
+<li id='menu-item-8719' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="38" data-tax="category" data-itemid="8719" ><a  href="http://localhost/nofilter/category/lifestyle/">Lifestyle</a> </li>
 </ul>
 </li>
-<li id='menu-item-8703' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="5" data-tax="category" data-itemid="8703" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/travel/">Travel</a> 
+<li id='menu-item-8708' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="37" data-tax="category" data-itemid="8708" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/arts/">Arts</a> 
 <ul class="sub-menu">
-<li id='menu-item-8713' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="5" data-tax="category" data-itemid="8713" ><a  href="http://localhost/nofilter/category/travel/">Travel</a> </li>
-</ul>
-</li>
-<li id='menu-item-8704' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="4" data-tax="category" data-itemid="8704" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/personal/">Personal</a> 
-<ul class="sub-menu">
-<li id='menu-item-8714' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="4" data-tax="category" data-itemid="8714" ><a  href="http://localhost/nofilter/category/personal/">Personal</a> </li>
-</ul>
-</li>
-<li id='menu-item-8705' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="2" data-tax="category" data-itemid="8705" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/fashion/">Fashion</a> 
-<ul class="sub-menu">
-<li id='menu-item-8715' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="2" data-tax="category" data-itemid="8715" ><a  href="http://localhost/nofilter/category/fashion/">Fashion</a> </li>
+<li id='menu-item-8718' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="37" data-tax="category" data-itemid="8718" ><a  href="http://localhost/nofilter/category/arts/">Arts</a> </li>
 </ul>
 </li>
 <li id='menu-item-8706' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="35" data-tax="category" data-itemid="8706" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/musique/">Musique</a> 
@@ -306,16 +276,6 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 <li id='menu-item-8717' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="36" data-tax="category" data-itemid="8717" ><a  href="http://localhost/nofilter/category/societe/">Société</a> </li>
 </ul>
 </li>
-<li id='menu-item-8708' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="37" data-tax="category" data-itemid="8708" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/arts/">Arts</a> 
-<ul class="sub-menu">
-<li id='menu-item-8718' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="37" data-tax="category" data-itemid="8718" ><a  href="http://localhost/nofilter/category/arts/">Arts</a> </li>
-</ul>
-</li>
-<li id='menu-item-8709' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="38" data-tax="category" data-itemid="8709" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/lifestyle/">Lifestyle</a> 
-<ul class="sub-menu">
-<li id='menu-item-8719' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="38" data-tax="category" data-itemid="8719" ><a  href="http://localhost/nofilter/category/lifestyle/">Lifestyle</a> </li>
-</ul>
-</li>
 <li id='menu-item-8710' class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-sub-menu no-sub-menu mega has-mega-sub-menu" data-termid="39" data-tax="category" data-itemid="8710" data-nosubmenu="4"><a  href="http://localhost/nofilter/category/sciences/">Sciences</a> 
 <ul class="sub-menu">
 <li id='menu-item-8720' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="39" data-tax="category" data-itemid="8720" ><a  href="http://localhost/nofilter/category/sciences/">Sciences</a> </li>
@@ -326,7 +286,7 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 <li id='menu-item-8721' class="menu-item menu-item-type-taxonomy menu-item-object-category mega-sub-item" data-termid="40" data-tax="category" data-itemid="8721" ><a  href="http://localhost/nofilter/category/evenements/">Evènements</a> </li>
 </ul>
 </li>
-<li><a class="newsletter-ajax-popup" href="#hs_signup">Subscribe</a></li></ul>		
+<li><a class="newsletter-ajax-popup" href="#hs_signup">S'inscrire</a></li></ul>		
 			</nav>
 </div>
 </div>
@@ -374,159 +334,28 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
  
 <div class="slideshow-bg"> 
  
-<div class="normal-slideshow carousel-wrap slideshow bottom-centered top-slideshow center-mode-off"><div id="owl-carousel-5c5768e28f92a" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="6" data-margin="0" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="10000" data-nav="true" data-rtl="" data-pagination="false">		 
+<div class="normal-slideshow carousel-wrap slideshow bottom-centered top-slideshow center-mode-off"><div id="owl-carousel-5c5c6298deb51" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="6" data-margin="0" data-items="1" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="10000" data-nav="true" data-rtl="" data-pagination="false">		 
 		           <div class="owl-slide">
-            <div class="cover-wrapper cover "  data-parallax="parallax-disabled"  data-videoplayback="video-playback-on"  data-videostart="4"  data-videoend="12" >
+            <div class="cover-wrapper cover  slide-video"  data-video="https://www.youtube.com/watch?v=EfCOPLDA2wI" data-parallax="parallax-disabled"  data-videoplayback="video-playback-on"  data-videostart="4"  data-videoend="15" >
 			
 			
 			
 			
-								<img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/08/Aerin-Tangier-Vanille-Fragrance-Perfume-min-827x600.jpg" width="827" height="600" class="attachment jarallax-img lazyload" alt="How Travel Makes You More Attractive" />								
+								<img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2019/02/Long-Live-the-King-LBJ-x-Kith-827x1000.jpg" width="827" height="1000" class="attachment jarallax-img lazyload" alt="Long Live the King" />								
 							
 						
               <div class="cover-content">
 
-			  <div class="meta-space-top post_category"><a class=" category-style-personal" href="http://localhost/nofilter/category/personal/" >Personal</a><a class=" category-style-travel" href="http://localhost/nofilter/category/travel/" >Travel</a></div>                <a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/"><h2>How Travel Makes You More Attractive</h2></a>
+			  <div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>                <a href="http://localhost/nofilter/long-live-the-king/"><h2>Long Live the King</h2></a>
 				<div class="slide-meta-bottom">
-				<div class=" meta-space-top meta-slide"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" rel="bookmark"><time class="entry-date published" datetime="2018-02-10T21:46:15+00:00">février 10, 2018</time><time class="updated" datetime="2019-01-18T20:23:38+00:00">janvier 18, 2019</time></a></span></div>					                				
+				<div class=" meta-space-top meta-slide"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/long-live-the-king/" rel="bookmark"><time class="entry-date published" datetime="2019-02-03T22:45:04+00:00">février 3, 2019</time><time class="updated" datetime="2019-02-07T16:36:34+00:00">février 7, 2019</time></a></span></div>					                				
 			</div>
               </div>
 			  	
-			  <a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" class="cover-link"></a>
+			  <a href="http://localhost/nofilter/long-live-the-king/" class="cover-link"></a>
 			  
-			  	            </div>
-			
-										  
-          </div>
-		  
-		  
-		 
-		           <div class="owl-slide">
-            <div class="cover-wrapper cover "  data-parallax="parallax-disabled"  data-videoplayback="video-playback-on"  data-videostart="4"  data-videoend="12" >
-			
-			
-			
-			
-								<img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2018/05/Hamptons-Header-min-827x600.jpg" width="827" height="600" class="attachment jarallax-img lazyload" alt="Hero Post  Layout Without Sidebar" />								
-							
-						
-              <div class="cover-content">
-
-			  <div class="meta-space-top post_category"><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a></div>                <a href="http://localhost/nofilter/hero-post-layout-with-sidebar/"><h2>Hero Post  Layout Without Sidebar</h2></a>
-				<div class="slide-meta-bottom">
-				<div class=" meta-space-top meta-slide"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" rel="bookmark"><time class="entry-date published updated" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time></a></span></div>					                				
-			</div>
-              </div>
-			  	
-			  <a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" class="cover-link"></a>
-			  
-			  	            </div>
-			
-										  
-          </div>
-		  
-		  
-		 
-		           <div class="owl-slide">
-            <div class="cover-wrapper cover "  data-parallax="parallax-disabled"  data-videoplayback="video-playback-on"  data-videostart="4"  data-videoend="12" >
-			
-			
-			
-			
-								<img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min-827x600.jpg" width="827" height="600" class="attachment jarallax-img lazyload" alt="Image Format Post With Review and Intro Text" />								
-							
-						
-              <div class="cover-content">
-
-			  <div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-personal" href="http://localhost/nofilter/category/personal/" >Personal</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a><a class=" category-style-travel" href="http://localhost/nofilter/category/travel/" >Travel</a></div>                <a href="http://localhost/nofilter/image-format-post/"><h2>Image Format Post With Review and Intro Text</h2></a>
-				<div class="slide-meta-bottom">
-				<div class=" meta-space-top meta-slide"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-03T12:30:21+00:00">février 3, 2019</time></a></span></div>					                				
-			</div>
-              </div>
-			  	
-			  <a href="http://localhost/nofilter/image-format-post/" class="cover-link"></a>
-			  
-			  	            </div>
-			
-										  
-          </div>
-		  
-		  
-		 
-		           <div class="owl-slide">
-            <div class="cover-wrapper cover  slide-video"  data-video="https://www.youtube.com/watch?v=7Vre_nWbPxk" data-parallax="parallax-disabled"  data-videoplayback="video-playback-on"  data-videostart="4"  data-videoend="12" >
-			
-			
-			
-			
-								<img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/01/26864147_n-min-827x600.jpg" width="827" height="600" class="attachment jarallax-img lazyload" alt="Video Format Post 2" />								
-							
-						
-              <div class="cover-content">
-
-			  <div class="meta-space-top post_category"><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a></div>                <a href="http://localhost/nofilter/video-format-post-2/"><h2>Video Format Post 2</h2></a>
-				<div class="slide-meta-bottom">
-				<div class=" meta-space-top meta-slide"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post-2/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-03T22:45:04+00:00">février 3, 2019</time></a></span></div>					                				
-			</div>
-              </div>
-			  	
-			  <a href="http://localhost/nofilter/video-format-post-2/" class="cover-link"></a>
-			  
-			  				  <a class="popup-youtube slide-play" href="//www.youtube.com/embed/7Vre_nWbPxk" title="Video Format Post 2"></a>
+			  				  <a class="popup-youtube slide-play" href="//www.youtube.com/embed/EfCOPLDA2wI" title="Long Live the King"></a>
 			               </div>
-			
-										  
-          </div>
-		  
-		  
-		 
-		           <div class="owl-slide">
-            <div class="cover-wrapper cover  slide-video"  data-video="https://www.youtube.com/watch?v=HjwI24-Xq2M" data-parallax="parallax-disabled"  data-videoplayback="video-playback-on"  data-videostart="4"  data-videoend="12" >
-			
-			
-			
-			
-								<img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/09/H-09-size-min-827x600.jpg" width="827" height="600" class="attachment jarallax-img lazyload" alt="Video Format Post" />								
-							
-						
-              <div class="cover-content">
-
-			  <div class="meta-space-top post_category"><a class=" category-style-personal" href="http://localhost/nofilter/category/personal/" >Personal</a></div>                <a href="http://localhost/nofilter/video-format-post/"><h2>Video Format Post</h2></a>
-				<div class="slide-meta-bottom">
-				<div class=" meta-space-top meta-slide"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post/" rel="bookmark"><time class="entry-date published updated" datetime="2018-02-26T22:30:07+00:00">février 26, 2018</time></a></span></div>					                				
-			</div>
-              </div>
-			  	
-			  <a href="http://localhost/nofilter/video-format-post/" class="cover-link"></a>
-			  
-			  				  <a class="popup-youtube slide-play" href="//www.youtube.com/embed/HjwI24-Xq2M" title="Video Format Post"></a>
-			               </div>
-			
-										  
-          </div>
-		  
-		  
-		 
-		           <div class="owl-slide">
-            <div class="cover-wrapper cover "  data-parallax="parallax-disabled"  data-videoplayback="video-playback-on"  data-videostart="4"  data-videoend="12" >
-			
-			
-			
-			
-								<img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/01/hbz-lainy-apartment-036-min-827x600.jpg" width="827" height="600" class="attachment jarallax-img lazyload" alt="Grid Gallery Post Type" />								
-							
-						
-              <div class="cover-content">
-
-			  <div class="meta-space-top post_category"><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a></div>                <a href="http://localhost/nofilter/grid-gallery-post-type/"><h2>Grid Gallery Post Type</h2></a>
-				<div class="slide-meta-bottom">
-				<div class=" meta-space-top meta-slide"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/grid-gallery-post-type/" rel="bookmark"><time class="entry-date published updated" datetime="2018-04-15T23:02:00+00:00">avril 15, 2018</time></a></span></div>					                				
-			</div>
-              </div>
-			  	
-			  <a href="http://localhost/nofilter/grid-gallery-post-type/" class="cover-link"></a>
-			  
-			  	            </div>
 			
 										  
           </div>
@@ -546,26 +375,26 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
         <h6 class="trending-title"><span>Populaire cette semaine</span></h6> 
 
         <div class="carousel-wrap trending-posts-slideshow">
-		<div id="owl-carousel-5c5768e295a16" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="3" data-margin="64" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">                      <div class="owl-slide post-list_h">
+		<div id="owl-carousel-5c5c6298e1ad0" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="3" data-margin="64" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">                      <div class="owl-slide post-list_h">
              
-				  			            <figure style="max-height:420px;" class="thumbnail trending-default"><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2018/05/Hamptons-Header-min-336x420.jpg" width="336" height="420" class="attachment lazyload" alt="Hero Post  Layout Without Sidebar" /></a></figure>				
+				  			            <figure style="max-height:420px;" class="thumbnail trending-default"><a href="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min-336x420.jpg" width="336" height="420" class="attachment lazyload" alt="Image Format Post With Review and Intro Text" /></a></figure>				
 				<div class="post-list-inner">
-                <div class="meta-space-top post_category"><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a></div>                <h6><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/">Hero Post  Layout Without Sidebar</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" rel="bookmark"><time class="entry-date published updated" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time></a></span></div>              </div>
+                <div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>                <h6><a href="http://localhost/nofilter/image-format-post/">Image Format Post With Review and Intro Text</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-07T16:37:08+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
                       <div class="owl-slide post-list_h">
              
-				  			            <figure style="max-height:420px;" class="thumbnail trending-default"><a href="http://localhost/nofilter/animated-gif-type-post/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/12/RM_CollectionSquare_GiftGiving_1_520x_crop_center@2x.gif" width="336" height="420" class="attachment lazyload" alt="Animated Gif Type Post" /></a></figure>				
+				  			            <figure style="max-height:420px;" class="thumbnail trending-default"><a href="//www.youtube.com/embed/HjwI24-Xq2M" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/09/H-09-size-min-336x420.jpg" width="336" height="420" class="attachment lazyload" alt="Video Format Post" /></a></figure>				
 				<div class="post-list-inner">
-                <div class="meta-space-top post_category"><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a></div>                <h6><a href="http://localhost/nofilter/animated-gif-type-post/">Animated Gif Type Post</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/animated-gif-type-post/" rel="bookmark"><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-01-18T20:25:12+00:00">janvier 18, 2019</time></a></span></div>              </div>
+                <div class="meta-space-top post_category"><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>                <h6><a href="http://localhost/nofilter/video-format-post/">Video Format Post</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-02-26T22:30:07+00:00">février 26, 2018</time><time class="updated" datetime="2019-02-07T16:39:15+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
                       <div class="owl-slide post-list_h">
              
-				  			            <figure style="max-height:420px;" class="thumbnail trending-default"><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/3-min-336x420.jpg" width="336" height="420" class="attachment lazyload" alt="Parallax Post Divided Into Columns" /></a></figure>				
+				  			            <figure style="max-height:420px;" class="thumbnail trending-default"><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/Bambu-05-opti-min-336x420.jpg" width="336" height="420" class="attachment lazyload" alt="Standard Post With   Left Sidebar" /></a></figure>				
 				<div class="post-list-inner">
-                <div class="meta-space-top post_category"><a class=" category-style-personal" href="http://localhost/nofilter/category/personal/" >Personal</a></div>                <h6><a href="http://localhost/nofilter/parallax-post-divided-into-columns/">Parallax Post Divided Into Columns</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" rel="bookmark"><time class="entry-date published" datetime="2018-03-18T11:19:05+00:00">mars 18, 2018</time><time class="updated" datetime="2019-01-18T20:24:17+00:00">janvier 18, 2019</time></a></span></div>              </div>
+                <div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>                <h6><a href="http://localhost/nofilter/standard-post-with-left-sidebar/">Standard Post With   Left Sidebar</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" rel="bookmark"><time class="entry-date published" datetime="2018-02-15T21:44:57+00:00">février 15, 2018</time><time class="updated" datetime="2019-02-07T16:49:02+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
                     </div>
         </div>
@@ -593,18 +422,18 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 	<div class="col-xs-12 col-sm-6 col-md-6">		
 <div class="post-grid-block post big-post">
 
-  <div class="thumb-container"><figure style="" class="thumbnail "><a href="//www.youtube.com/embed/7Vre_nWbPxk" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/01/26864147_n-min-359x282.jpg" width="359" height="282" class="attachment lazyload" alt="Video Format Post 2" /></a></figure></div><header class="post-header"><div class="meta-space-top post_category"><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a></div>	<h2 class="grid-post-title"><a href="http://localhost/nofilter/video-format-post-2/" title="Video Format Post 2">Video Format Post 2</a></h2>
+  <div class="thumb-container"><figure style="" class="thumbnail "><a href="http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb-359x282.jpg" width="359" height="282" class="attachment lazyload" alt="Tom Leeb : l&rsquo;artiste polyvalent" /></a></figure></div><header class="post-header"><div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a></div>	<h2 class="grid-post-title"><a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/" title="Tom Leeb : l&rsquo;artiste polyvalent">Tom Leeb : l&rsquo;artiste polyvalent</a></h2>
 							
 
 	<div class=" meta-space-top">      <span class="vcard author ">	
 				Par		<em class="fn"><a href="http://localhost/nofilter/author/nofilteradmin/" title="Articles par Nofilteradmin" rel="author" class="url">Nofilteradmin</a></em>
       </span> 
-    <span class="posted-on"><span class="screen-reader-text">Posted on </span><time class="entry-date published updated" datetime="2019-02-03T22:45:04+00:00">février 3, 2019</time></span>      <span class="post-comments">
-<i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/video-format-post-2/#respond" class="comments-link" >0 Comments</a>      </span>
+    <span class="posted-on"><span class="screen-reader-text">Posted on </span><time class="entry-date published updated" datetime="2019-02-07T11:48:44+00:00">février 7, 2019</time></span>      <span class="post-comments">
+<i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/#respond" class="comments-link" >0 Comments</a>      </span>
     </div>	
 	
 		<div class="excerpt">
-	<p>Once you’ve settled on a shade, New York ... </p>	</div>
+	<p>Le 21 septembre 2018, Tom Leeb annonçait la ... </p>	</div>
 	 
 	<div class="clear"></div>
 	 
@@ -614,10 +443,10 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 			
 <div class="row small-post"><div class="col-md-12"><div class="post-grid-block post">
 
-  <div class="thumb-container"><figure style="" class="thumbnail "><a href="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min-359x282.jpg" width="359" height="282" class="attachment lazyload" alt="Image Format Post With Review and Intro Text" /></a></figure></div><header class="post-header"><div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-personal" href="http://localhost/nofilter/category/personal/" >Personal</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a><a class=" category-style-travel" href="http://localhost/nofilter/category/travel/" >Travel</a></div>	<h2 class="grid-post-title"><a href="http://localhost/nofilter/image-format-post/" title="Image Format Post With Review and Intro Text">Image Format Post With Review and Intro Text</a></h2>
+  <div class="thumb-container"><figure style="" class="thumbnail "><a href="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min-359x282.jpg" width="359" height="282" class="attachment lazyload" alt="Image Format Post With Review and Intro Text" /></a></figure></div><header class="post-header"><div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>	<h2 class="grid-post-title"><a href="http://localhost/nofilter/image-format-post/" title="Image Format Post With Review and Intro Text">Image Format Post With Review and Intro Text</a></h2>
 							
 
-	<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-03T12:30:21+00:00">février 3, 2019</time></span></div>	
+	<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-07T16:37:08+00:00">février 7, 2019</time></span></div>	
 	
 	 
 	<div class="clear"></div>
@@ -628,10 +457,10 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 			
 <div class="row small-post"><div class="col-md-12"><div class="post-grid-block post">
 
-  <div class="thumb-container"><figure style="" class="thumbnail "><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2018/05/Hamptons-Header-min-359x282.jpg" width="359" height="282" class="attachment lazyload" alt="Hero Post  Layout Without Sidebar" /></a></figure></div><header class="post-header"><div class="meta-space-top post_category"><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a></div>	<h2 class="grid-post-title"><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" title="Hero Post  Layout Without Sidebar">Hero Post  Layout Without Sidebar</a></h2>
+  <div class="thumb-container"><figure style="" class="thumbnail "><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2018/05/Hamptons-Header-min-359x282.jpg" width="359" height="282" class="attachment lazyload" alt="Hero Post  Layout Without Sidebar" /></a></figure></div><header class="post-header"><div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>	<h2 class="grid-post-title"><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" title="Hero Post  Layout Without Sidebar">Hero Post  Layout Without Sidebar</a></h2>
 							
 
-	<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><time class="entry-date published updated" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time></span></div>	
+	<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><time class="entry-date published" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time><time class="updated" datetime="2019-02-07T16:37:24+00:00">février 7, 2019</time></span></div>	
 	
 	 
 	<div class="clear"></div>
@@ -642,10 +471,10 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 			
 <div class="row small-post"><div class="col-md-12"><div class="post-grid-block post">
 
-  <div class="thumb-container"><figure style="" class="thumbnail "><a href="http://localhost/nofilter/animated-gif-type-post/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/12/RM_CollectionSquare_GiftGiving_1_520x_crop_center@2x-359x282.gif" width="359" height="282" class="attachment lazyload" alt="Animated Gif Type Post" /></a></figure></div><header class="post-header"><div class="meta-space-top post_category"><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a></div>	<h2 class="grid-post-title"><a href="http://localhost/nofilter/animated-gif-type-post/" title="Animated Gif Type Post">Animated Gif Type Post</a></h2>
+  <div class="thumb-container"><figure style="" class="thumbnail "><a href="http://localhost/nofilter/animated-gif-type-post/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/12/RM_CollectionSquare_GiftGiving_1_520x_crop_center@2x-359x282.gif" width="359" height="282" class="attachment lazyload" alt="Animated Gif Type Post" /></a></figure></div><header class="post-header"><div class="meta-space-top post_category"><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>	<h2 class="grid-post-title"><a href="http://localhost/nofilter/animated-gif-type-post/" title="Animated Gif Type Post">Animated Gif Type Post</a></h2>
 							
 
-	<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-01-18T20:25:12+00:00">janvier 18, 2019</time></span></div>	
+	<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-02-07T16:37:35+00:00">février 7, 2019</time></span></div>	
 	
 	 
 	<div class="clear"></div>
@@ -659,7 +488,7 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 <div class="row"><div class="col-md-12 sticky">
 
 
-<article id="post-2198" class="post__holder  post-2198 post type-post status-publish format-standard has-post-thumbnail sticky hentry category-personal category-travel tag-pictures tag-relationships tag-social-media tag-sports tag-tips tag-women tag-writing location-france location-paris">
+<article id="post-8726" class="post__holder  post-8726 post type-post status-publish format-video has-post-thumbnail sticky hentry category-arts category-beauty category-lifestyle category-societe tag-documentaire tag-kith tag-lebron-james tag-nba tag-ronnie-fieg post_format-post-format-video">
 <div class="ribbon-wrapper-featured hidden-phone"><div class="ribbon-featured">Featured</div></div>
 	<div class="row">
 	<div class="col-md-12">
@@ -670,36 +499,30 @@ var _wpmejsSettings = {"pluginPath":"\/nofilter\/wp-includes\/js\/mediaelement\/
 
 	
 	
-<div style="background-image: url(http://localhost/nofilter/wp-content/uploads/2016/08/Aerin-Tangier-Vanille-Fragrance-Perfume-min.jpg);" class="parallax-image modern-layout overlay-mode" data-herculesdesign-parallax='{"backgroundUrl":"http://localhost/nofilter/wp-content/uploads/2016/08/Aerin-Tangier-Vanille-Fragrance-Perfume-min.jpg","backgroundSize":[1000,667],"backgroundSizing":"scaled","limitMotion":"0.7"}'  >
+<div style="background-image: url(http://localhost/nofilter/wp-content/uploads/2019/02/Long-Live-the-King-LBJ-x-Kith.jpg);" class="parallax-image modern-layout overlay-mode parallax-video"  data-video="https://www.youtube.com/watch?v=EfCOPLDA2wI" data-start="7" data-end="25"  >
 <div class="post-header-overlay"></div>
 <div class="container"><div class="row">
                     <div class="col-md-12">
 					<section class="single-title-section">
 <header class="post-header">
 	
-	<div class="meta-space-top post_category"><a class=" category-style-personal" href="http://localhost/nofilter/category/personal/" >Personal</a><a class=" category-style-travel" href="http://localhost/nofilter/category/travel/" >Travel</a></div>				
-			<h2 class="post-title entry-title" itemprop="name headline"><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" title="How Travel Makes You More Attractive">How Travel Makes You More Attractive</a></h2>
-				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" rel="bookmark"><time class="entry-date published" datetime="2018-02-10T21:46:15+00:00">février 10, 2018</time><time class="updated" datetime="2019-01-18T20:23:38+00:00">janvier 18, 2019</time></a></span><span>
-<i class="fa fa-map-marker" aria-hidden="true"></i> Location: <a href="http://localhost/nofilter/location/france/" rel="tag">France</a>, <a href="http://localhost/nofilter/location/paris/" rel="tag">Paris</a> </span>
-      <span class="meta-reading-time">
-                3        de lecture      </span>
+	<div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>				
+			<h2 class="post-title entry-title" itemprop="name headline"><a href="http://localhost/nofilter/long-live-the-king/" title="Long Live the King">Long Live the King</a></h2>
+				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/long-live-the-king/" rel="bookmark"><time class="entry-date published" datetime="2019-02-03T22:45:04+00:00">février 3, 2019</time><time class="updated" datetime="2019-02-07T16:36:34+00:00">février 7, 2019</time></a></span>      <span class="meta-reading-time">
+                2        de lecture      </span>
           <span class="meta-views">
-                        196         Vues      </span>
+                        1         Vues      </span>
     </div></header></section></div></div></div></div>
 	
 				<div class="isopad">
 				
 			<div class="excerpt">
 		
-			<div class="bigletter " data-first_letter="D">Daniel Jackson shot supermodel Christy Turlington and Calvin Klein creative directors Francisco Costa, Italo Zucchelli and Kevin Carrigan for WSJ. Magazine. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.</div>
-
-<blockquote>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain&#8230;</blockquote>
-
-But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?			
+			<p>On l’avait notamment aperçu il y a quelques mois dans un barbershop, en train de discuter avec &#8230;</p>			
 			</div>
 				
 						<div class="clear"></div>
-				<div class="viewpost-button"><a class="button" href="http://localhost/nofilter/how-travel-makes-you-more-attractive/"><span>Lire la suite</span></a></div>
+				<div class="viewpost-button"><a class="button" href="http://localhost/nofilter/long-live-the-king/"><span>Lire la suite</span></a></div>
 		<div class="clear"></div>
 				
 				
@@ -715,22 +538,22 @@ But who has any right to find fault with a man who chooses to enjoy a pleasure t
 			
 <div class="share-buttons">
 	
-<a class="hs-icon hs hs-facebook" onClick="window.open('https://www.facebook.com/sharer.php?u=http://localhost/nofilter/how-travel-makes-you-more-attractive/','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="https://www.facebook.com/sharer.php?u=http://localhost/nofilter/how-travel-makes-you-more-attractive/"></a>
+<a class="hs-icon hs hs-facebook" onClick="window.open('https://www.facebook.com/sharer.php?u=http://localhost/nofilter/long-live-the-king/','Facebook','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="https://www.facebook.com/sharer.php?u=http://localhost/nofilter/long-live-the-king/"></a>
  
-<a class="hs-icon hs hs-twitter" onClick="window.open('https://twitter.com/share?url=http://localhost/nofilter/how-travel-makes-you-more-attractive/&amp;text=How%20Travel%20Makes%20You%20More%20Attractive&amp;via=envato','Twitter share','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="https://twitter.com/share?url=http://localhost/nofilter/how-travel-makes-you-more-attractive/&amp;text=How%20Travel%20Makes%20You%20More%20Attractive&amp;via=envato"></a>
-<a class="hs-icon hs hs-gplus" onClick="window.open('https://plus.google.com/share?url=http://localhost/nofilter/how-travel-makes-you-more-attractive/','Google plus','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="https://plus.google.com/share?url=http://localhost/nofilter/how-travel-makes-you-more-attractive/"></a>
-<a target="_blank" class="hs-icon hs hs-pinterest" href="https://pinterest.com/pin/create/button/?url=http://localhost/nofilter/how-travel-makes-you-more-attractive/&amp;media=http://localhost/nofilter/wp-content/uploads/2016/08/Aerin-Tangier-Vanille-Fragrance-Perfume-min.jpg&amp;description=How%20Travel%20Makes%20You%20More%20Attractive" data-pin-do="buttonPin" data-pin-custom="true"></a>
-<a class="hs-icon hs hs-whatsapp visible-xs-inline-block" href="whatsapp://send?text=How%20Travel%20Makes%20You%20More%20Attractive-http://localhost/nofilter/how-travel-makes-you-more-attractive/" data-action="share/whatsapp/share"></a>
+<a class="hs-icon hs hs-twitter" onClick="window.open('https://twitter.com/share?url=http://localhost/nofilter/long-live-the-king/&amp;text=Long%20Live%20the%20King&amp;via=envato','Twitter share','width=600,height=300,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-150)+''); return false;" href="https://twitter.com/share?url=http://localhost/nofilter/long-live-the-king/&amp;text=Long%20Live%20the%20King&amp;via=envato"></a>
+<a class="hs-icon hs hs-gplus" onClick="window.open('https://plus.google.com/share?url=http://localhost/nofilter/long-live-the-king/','Google plus','width=585,height=666,left='+(screen.availWidth/2-292)+',top='+(screen.availHeight/2-333)+''); return false;" href="https://plus.google.com/share?url=http://localhost/nofilter/long-live-the-king/"></a>
+<a target="_blank" class="hs-icon hs hs-pinterest" href="https://pinterest.com/pin/create/button/?url=http://localhost/nofilter/long-live-the-king/&amp;media=http://localhost/nofilter/wp-content/uploads/2019/02/Long-Live-the-King-LBJ-x-Kith.jpg&amp;description=Long%20Live%20the%20King" data-pin-do="buttonPin" data-pin-custom="true"></a>
+<a class="hs-icon hs hs-whatsapp visible-xs-inline-block" href="whatsapp://send?text=Long%20Live%20the%20King-http://localhost/nofilter/long-live-the-king/" data-action="share/whatsapp/share"></a>
 	
 		
-	<span class="heart hs-icon"><a href="#" class="hercules-likes" id="hercules-likes-2198" title="Like this"><span>3</span></a></span>	
+	<span class="heart hs-icon"><a href="#" class="hercules-likes" id="hercules-likes-8726" title="Like this"><span>0</span></a></span>	
 
 </div>
 		</div>
 		<div class="col-md-4 col-sm-4 col-xs-12">
 
 		<div class=" meta-space-top">      <span class="post-comments">
-<i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/#comments" class="comments-link" >1 Comment</a>      </span>
+<i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/long-live-the-king/#respond" class="comments-link" >0 Comments</a>      </span>
     </div></div>
 </div></div>
  
@@ -750,45 +573,21 @@ But who has any right to find fault with a man who chooses to enjoy a pleasure t
 
 			<div class="row"><div class="col-md-12">
  <div class="carousel-wrap slideshows underneath">
- 		<div id="owl-carousel-5c5768e2a0f7a" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="6" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
+ 		<div id="owl-carousel-5c5c62990b631" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="6" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/grid-gallery-post-type/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/01/hbz-lainy-apartment-036-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Grid Gallery Post Type" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/grid-gallery-post-type/">Grid Gallery Post Type</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/grid-gallery-post-type/" rel="bookmark"><time class="entry-date published" datetime="2018-04-15T23:02:00+00:00">avril 15, 2018</time><time class="updated" datetime="2019-02-07T16:37:57+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
              
 				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/3-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Parallax Post Divided Into Columns" /></a></figure>				
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/parallax-post-divided-into-columns/">Parallax Post Divided Into Columns</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" rel="bookmark"><time class="entry-date published" datetime="2018-03-18T11:19:05+00:00">mars 18, 2018</time><time class="updated" datetime="2019-01-18T20:24:17+00:00">janvier 18, 2019</time></a></span></div>              </div>
-            </div>
-				            <div class="owl-slide post-list_h">
-             
-				  			            <figure style="" class="thumbnail trending-default"><a href="//www.youtube.com/embed/HjwI24-Xq2M" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/09/H-09-size-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Video Format Post" /></a></figure>				
-				<div class="post-list-inner">
-            
-                <h6><a href="http://localhost/nofilter/video-format-post/">Video Format Post</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post/" rel="bookmark"><time class="entry-date published updated" datetime="2018-02-26T22:30:07+00:00">février 26, 2018</time></a></span></div>              </div>
-            </div>
-				            <div class="owl-slide post-list_h">
-             
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/video/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/paris-1-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Slideshow Post Type With Blockquote  and Intro" /></a></figure>				
-				<div class="post-list-inner">
-            
-                <h6><a href="http://localhost/nofilter/video/">Slideshow Post Type With Blockquote  and Intro</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video/" rel="bookmark"><time class="entry-date published updated" datetime="2018-03-22T22:49:21+00:00">mars 22, 2018</time></a></span></div>              </div>
-            </div>
-				            <div class="owl-slide post-list_h">
-             
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/Nina-Agdal-Massimo-Dutti-Hamptons-Photoshoot05-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Lightbox Gallery Post Type" /></a></figure>				
-				<div class="post-list-inner">
-            
-                <h6><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/">Lightbox Gallery Post Type</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" rel="bookmark"><time class="entry-date published" datetime="2018-04-26T22:35:59+00:00">avril 26, 2018</time><time class="updated" datetime="2019-01-18T13:13:54+00:00">janvier 18, 2019</time></a></span></div>              </div>
-            </div>
-				            <div class="owl-slide post-list_h">
-             
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Image Format Post With Review and Intro Text" /></a></figure>				
-				<div class="post-list-inner">
-            
-                <h6><a href="http://localhost/nofilter/image-format-post/">Image Format Post With Review and Intro Text</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-03T12:30:21+00:00">février 3, 2019</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" rel="bookmark"><time class="entry-date published" datetime="2018-03-18T11:19:05+00:00">mars 18, 2018</time><time class="updated" datetime="2019-02-07T16:38:58+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
@@ -796,42 +595,67 @@ But who has any right to find fault with a man who chooses to enjoy a pleasure t
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/maybe-this-is-due-to-the-revolution-in-social-media/">Horizontal Post With Sidebar</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/maybe-this-is-due-to-the-revolution-in-social-media/" rel="bookmark"><time class="entry-date published updated" datetime="2018-03-20T12:03:50+00:00">mars 20, 2018</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/maybe-this-is-due-to-the-revolution-in-social-media/" rel="bookmark"><time class="entry-date published" datetime="2018-03-20T12:03:50+00:00">mars 20, 2018</time><time class="updated" datetime="2019-02-07T16:49:50+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="//www.youtube.com/embed/HjwI24-Xq2M" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/09/H-09-size-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Video Format Post" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/video-format-post/">Video Format Post</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-02-26T22:30:07+00:00">février 26, 2018</time><time class="updated" datetime="2019-02-07T16:39:15+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/animated-gif-type-post/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/12/RM_CollectionSquare_GiftGiving_1_520x_crop_center@2x-560x720.gif" width="560" height="720" class="attachment lazyload" alt="Animated Gif Type Post" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/animated-gif-type-post/">Animated Gif Type Post</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/animated-gif-type-post/" rel="bookmark"><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-02-07T16:37:35+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/Bambu-05-opti-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Standard Post With   Left Sidebar" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/standard-post-with-left-sidebar/">Standard Post With   Left Sidebar</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" rel="bookmark"><time class="entry-date published" datetime="2018-02-15T21:44:57+00:00">février 15, 2018</time><time class="updated" datetime="2019-02-07T16:49:02+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 							</div></div></div>
 	</div></div></div>
 		
 </div></div>
 					<div class="list-post ajax-container row">
-                         <div id="post-8726" class="block col-xs-12 col-md-12 ajax-post-wrapper list-post-container" > 
+                         <div id="post-8742" class="block col-xs-12 col-md-12 ajax-post-wrapper list-post-container" > 
 		 
 		<div class="post_content ">
 		<div class="row row-eq-height">
 		
  
 <div class="col-sm-5 col-md-5 ">
-			            <figure style="" class="thumbnail "><a target="_blank" class="hs hs-pinterest pinterest-share-icon" href="http://pinterest.com/pin/create/button/?url=//www.youtube.com/embed/7Vre_nWbPxk&amp;media=http://localhost/nofilter/wp-content/uploads/2016/01/26864147_n-min.jpg&amp;description=Video%20Format%20Post%202" data-pin-do="buttonPin" data-pin-custom="true"></a><a href="//www.youtube.com/embed/7Vre_nWbPxk" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/01/26864147_n-min-289x356.jpg" width="289" height="356" class="attachment lazyload" alt="Video Format Post 2" /></a></figure>
+			            <figure style="" class="thumbnail "><a target="_blank" class="hs hs-pinterest pinterest-share-icon" href="http://pinterest.com/pin/create/button/?url=http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb.jpg&amp;media=http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb.jpg&amp;description=Tom%20Leeb%20:%20l&rsquo;artiste%20polyvalent" data-pin-do="buttonPin" data-pin-custom="true"></a><a href="http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb-289x356.jpg" width="289" height="356" class="attachment lazyload" alt="Tom Leeb : l&rsquo;artiste polyvalent" /></a></figure>
 		</div>
 		
 		
 		<div class="col-sm-7 col-md-7 left-space">
 	<header class="post-header">
-<div class="meta-space-top post_category"><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a></div>
+<div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a></div>
 
-			<h2 class="list-post-title"><a href="http://localhost/nofilter/video-format-post-2/" title="Video Format Post 2">Video Format Post 2</a></h2>
-<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post-2/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-03T22:45:04+00:00">février 3, 2019</time></a></span>      <span class="post-comments">
-<i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/video-format-post-2/#respond" class="comments-link" >0 Comments</a>      </span>
+			<h2 class="list-post-title"><a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/" title="Tom Leeb : l&rsquo;artiste polyvalent">Tom Leeb : l&rsquo;artiste polyvalent</a></h2>
+<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-07T11:48:44+00:00">février 7, 2019</time></a></span>      <span class="post-comments">
+<i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/#respond" class="comments-link" >0 Comments</a>      </span>
           <span class="meta-reading-time">
-                1        de lecture      </span>
+                4        de lecture      </span>
     </div>
 	<div class="isopad_grid">
 						
 			<div class="excerpt">
-		<p>Once you’ve settled on a shade, New York City colorist Aura Friedman, whose clients include everyone ... </p>		
+		<p>
+Le 21 septembre 2018, Tom Leeb annonçait la sortie de son premier EP éponyme. Il se ... </p>		
 			</div>
 		
 
-				<div class="viewpost-button"><a class="button" href="http://localhost/nofilter/video-format-post-2/"><span>Lire la suite</span></a></div>
+				<div class="viewpost-button"><a class="button" href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/"><span>Lire la suite</span></a></div>
 		<div class="clear"></div>
 		
 
@@ -862,10 +686,10 @@ But who has any right to find fault with a man who chooses to enjoy a pleasure t
 		
 		<div class="col-sm-7 col-md-7 left-space">
 	<header class="post-header">
-<div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-personal" href="http://localhost/nofilter/category/personal/" >Personal</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a><a class=" category-style-travel" href="http://localhost/nofilter/category/travel/" >Travel</a></div>
+<div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>
 
 			<h2 class="list-post-title"><a href="http://localhost/nofilter/image-format-post/" title="Image Format Post With Review and Intro Text">Image Format Post With Review and Intro Text</a></h2>
-<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-03T12:30:21+00:00">février 3, 2019</time></a></span><span>
+<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-07T16:37:08+00:00">février 7, 2019</time></a></span><span>
 <i class="fa fa-map-marker" aria-hidden="true"></i> Location: <a href="http://localhost/nofilter/location/new-york/" rel="tag">New York</a>, <a href="http://localhost/nofilter/location/usa/" rel="tag">USA</a> </span>
       <span class="post-comments">
 <i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/image-format-post/#comments" class="comments-link" >7 Comments</a>      </span>
@@ -902,15 +726,15 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 <div class="block col-xs-12 col-md-12 ajax-post-wrapper" >
 
 
-<article id="post-4857" class="post__holder  post-4857 post type-post status-publish format-standard has-post-thumbnail hentry category-beauty tag-photo tag-photography tag-pictures tag-relationships tag-social-media tag-sports tag-tips tag-women tag-writing location-italy location-milan">
+<article id="post-4857" class="post__holder  post-4857 post type-post status-publish format-standard has-post-thumbnail hentry category-arts category-evenements category-sciences category-societe tag-photo tag-photography tag-pictures tag-relationships tag-social-media tag-sports tag-tips tag-women tag-writing location-italy location-milan">
 
 	<div class="row">
 	<div class="col-md-12">
 	<header class="post-header">
 	
-	<div class="meta-space-top post_category"><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a></div>				
+	<div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>				
 			<h2 class="post-title entry-title" itemprop="name headline"><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" title="Hero Post  Layout Without Sidebar">Hero Post  Layout Without Sidebar</a></h2>
-				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" rel="bookmark"><time class="entry-date published updated" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time></a></span><span>
+				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" rel="bookmark"><time class="entry-date published" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time><time class="updated" datetime="2019-02-07T16:37:24+00:00">février 7, 2019</time></a></span><span>
 <i class="fa fa-map-marker" aria-hidden="true"></i> Location: <a href="http://localhost/nofilter/location/italy/" rel="tag">Italy</a>, <a href="http://localhost/nofilter/location/milan/" rel="tag">Milan</a> </span>
       <span class="meta-reading-time">
                 3        de lecture      </span>
@@ -988,21 +812,29 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 
 			<div class="row"><div class="col-md-12">
  <div class="carousel-wrap slideshows underneath">
- 		<div id="owl-carousel-5c5768e2af3fc" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="4" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
+ 		<div id="owl-carousel-5c5c62992b7ad" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="6" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="//www.youtube.com/embed/HjwI24-Xq2M" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/09/H-09-size-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Video Format Post" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/video-format-post/">Video Format Post</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-02-26T22:30:07+00:00">février 26, 2018</time><time class="updated" datetime="2019-02-07T16:39:15+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
              
 				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/Bambu-05-opti-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Standard Post With   Left Sidebar" /></a></figure>				
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/standard-post-with-left-sidebar/">Standard Post With   Left Sidebar</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" rel="bookmark"><time class="entry-date published updated" datetime="2018-02-15T21:44:57+00:00">février 15, 2018</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" rel="bookmark"><time class="entry-date published" datetime="2018-02-15T21:44:57+00:00">février 15, 2018</time><time class="updated" datetime="2019-02-07T16:49:02+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/grid-gallery-post-type/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/01/hbz-lainy-apartment-036-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Grid Gallery Post Type" /></a></figure>				
+				  			            <figure style="" class="thumbnail trending-default"><a href="//www.youtube.com/embed/EfCOPLDA2wI" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2019/02/Long-Live-the-King-LBJ-x-Kith-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Long Live the King" /></a></figure>				
 				<div class="post-list-inner">
             
-                <h6><a href="http://localhost/nofilter/grid-gallery-post-type/">Grid Gallery Post Type</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/grid-gallery-post-type/" rel="bookmark"><time class="entry-date published updated" datetime="2018-04-15T23:02:00+00:00">avril 15, 2018</time></a></span></div>              </div>
+                <h6><a href="http://localhost/nofilter/long-live-the-king/">Long Live the King</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/long-live-the-king/" rel="bookmark"><time class="entry-date published" datetime="2019-02-03T22:45:04+00:00">février 3, 2019</time><time class="updated" datetime="2019-02-07T16:36:34+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
@@ -1010,7 +842,15 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/image-format-post/">Image Format Post With Review and Intro Text</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-03T12:30:21+00:00">février 3, 2019</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-07T16:37:08+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/video/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/paris-1-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Slideshow Post Type With Blockquote  and Intro" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/video/">Slideshow Post Type With Blockquote  and Intro</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video/" rel="bookmark"><time class="entry-date published" datetime="2018-03-22T22:49:21+00:00">mars 22, 2018</time><time class="updated" datetime="2019-02-07T16:38:17+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
@@ -1018,7 +858,7 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/animated-gif-type-post/">Animated Gif Type Post</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/animated-gif-type-post/" rel="bookmark"><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-01-18T20:25:12+00:00">janvier 18, 2019</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/animated-gif-type-post/" rel="bookmark"><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-02-07T16:37:35+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 							</div></div></div>
 	</div></div></div>
@@ -1043,10 +883,10 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 		
 		<div class="col-sm-7 col-md-7 left-space">
 	<header class="post-header">
-<div class="meta-space-top post_category"><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a></div>
+<div class="meta-space-top post_category"><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>
 
 			<h2 class="list-post-title"><a href="http://localhost/nofilter/animated-gif-type-post/" title="Animated Gif Type Post">Animated Gif Type Post</a></h2>
-<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/animated-gif-type-post/" rel="bookmark"><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-01-18T20:25:12+00:00">janvier 18, 2019</time></a></span>      <span class="post-comments">
+<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/animated-gif-type-post/" rel="bookmark"><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-02-07T16:37:35+00:00">février 7, 2019</time></a></span>      <span class="post-comments">
 <i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/animated-gif-type-post/#respond" class="comments-link" >0 Comments</a>      </span>
           <span class="meta-reading-time">
                 3        de lecture      </span>
@@ -1089,10 +929,10 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 		
 		<div class="col-sm-7 col-md-7 left-space">
 	<header class="post-header">
-<div class="meta-space-top post_category"><a class=" category-style-travel" href="http://localhost/nofilter/category/travel/" >Travel</a></div>
+<div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a></div>
 
 			<h2 class="list-post-title"><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" title="Lightbox Gallery Post Type">Lightbox Gallery Post Type</a></h2>
-<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" rel="bookmark"><time class="entry-date published" datetime="2018-04-26T22:35:59+00:00">avril 26, 2018</time><time class="updated" datetime="2019-01-18T13:13:54+00:00">janvier 18, 2019</time></a></span>      <span class="post-comments">
+<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" rel="bookmark"><time class="entry-date published" datetime="2018-04-26T22:35:59+00:00">avril 26, 2018</time><time class="updated" datetime="2019-02-07T16:37:46+00:00">février 7, 2019</time></a></span>      <span class="post-comments">
 <i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/#comments" class="comments-link" >5 Comments</a>      </span>
           <span class="meta-reading-time">
                 2        de lecture      </span>
@@ -1125,15 +965,15 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 <div class="block col-xs-12 col-md-12 ajax-post-wrapper" >
 
 
-<article id="post-2737" class="post__holder  post-2737 post type-post status-publish format-gallery has-post-thumbnail hentry category-beauty tag-photo tag-photography tag-pictures tag-relationships tag-social-media tag-sports tag-tips tag-women tag-writing post_format-post-format-gallery location-los-angeles location-usa">
+<article id="post-2737" class="post__holder  post-2737 post type-post status-publish format-gallery has-post-thumbnail hentry category-lifestyle category-musique category-sciences category-societe tag-photo tag-photography tag-pictures tag-relationships tag-social-media tag-sports tag-tips tag-women tag-writing post_format-post-format-gallery location-los-angeles location-usa">
 
 	<div class="row">
 	<div class="col-md-12">
 	<header class="post-header">
 	
-	<div class="meta-space-top post_category"><a class=" category-style-beauty" href="http://localhost/nofilter/category/beauty/" >Inspiration</a></div>				
+	<div class="meta-space-top post_category"><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>				
 			<h2 class="post-title entry-title" itemprop="name headline"><a href="http://localhost/nofilter/grid-gallery-post-type/" title="Grid Gallery Post Type">Grid Gallery Post Type</a></h2>
-				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/grid-gallery-post-type/" rel="bookmark"><time class="entry-date published updated" datetime="2018-04-15T23:02:00+00:00">avril 15, 2018</time></a></span><span>
+				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/grid-gallery-post-type/" rel="bookmark"><time class="entry-date published" datetime="2018-04-15T23:02:00+00:00">avril 15, 2018</time><time class="updated" datetime="2019-02-07T16:37:57+00:00">février 7, 2019</time></a></span><span>
 <i class="fa fa-map-marker" aria-hidden="true"></i> Location: <a href="http://localhost/nofilter/location/los-angeles/" rel="tag">Los Angeles</a>, <a href="http://localhost/nofilter/location/usa/" rel="tag">USA</a> </span>
       <span class="meta-reading-time">
                 3        de lecture      </span>
@@ -1145,7 +985,7 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 					
 		
 		
-					<div id="justifiedgall_dagpwcqajg" data-rtl="false" data-captions="false" data-rowheight="200" data-margins="10" data-randomize="false">
+					<div id="justifiedgall_qlwczxrkem" data-rtl="false" data-captions="false" data-rowheight="200" data-margins="10" data-randomize="false">
 		
 										
 					<div><a class="open" title="" href="http://localhost/nofilter/wp-content/uploads/2016/10/Massimo-Dutti-Spring-Summer-2017-Campaign-min.jpg"><img src="http://localhost/nofilter/wp-content/uploads/2016/10/Massimo-Dutti-Spring-Summer-2017-Campaign-min-636x359.jpg" width="636" height="359" alt=""/></a></div>
@@ -1221,21 +1061,13 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 
 			<div class="row"><div class="col-md-12">
  <div class="carousel-wrap slideshows underneath">
- 		<div id="owl-carousel-5c5768e2c4cc7" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="4" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
-             
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/animated-gif-type-post/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/12/RM_CollectionSquare_GiftGiving_1_520x_crop_center@2x-560x720.gif" width="560" height="720" class="attachment lazyload" alt="Animated Gif Type Post" /></a></figure>				
-				<div class="post-list-inner">
-            
-                <h6><a href="http://localhost/nofilter/animated-gif-type-post/">Animated Gif Type Post</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/animated-gif-type-post/" rel="bookmark"><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-01-18T20:25:12+00:00">janvier 18, 2019</time></a></span></div>              </div>
-            </div>
-				            <div class="owl-slide post-list_h">
+ 		<div id="owl-carousel-5c5c629946e32" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="6" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
              
 				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2018/05/Hamptons-Header-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Hero Post  Layout Without Sidebar" /></a></figure>				
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/">Hero Post  Layout Without Sidebar</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" rel="bookmark"><time class="entry-date published updated" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" rel="bookmark"><time class="entry-date published" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time><time class="updated" datetime="2019-02-07T16:37:24+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
@@ -1243,15 +1075,39 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/image-format-post/">Image Format Post With Review and Intro Text</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-03T12:30:21+00:00">février 3, 2019</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-07T16:37:08+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/Bambu-05-opti-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Standard Post With   Left Sidebar" /></a></figure>				
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/animated-gif-type-post/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/12/RM_CollectionSquare_GiftGiving_1_520x_crop_center@2x-560x720.gif" width="560" height="720" class="attachment lazyload" alt="Animated Gif Type Post" /></a></figure>				
 				<div class="post-list-inner">
             
-                <h6><a href="http://localhost/nofilter/standard-post-with-left-sidebar/">Standard Post With   Left Sidebar</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" rel="bookmark"><time class="entry-date published updated" datetime="2018-02-15T21:44:57+00:00">février 15, 2018</time></a></span></div>              </div>
+                <h6><a href="http://localhost/nofilter/animated-gif-type-post/">Animated Gif Type Post</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/animated-gif-type-post/" rel="bookmark"><time class="entry-date published" datetime="2018-04-28T20:57:57+00:00">avril 28, 2018</time><time class="updated" datetime="2019-02-07T16:37:35+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/Nina-Agdal-Massimo-Dutti-Hamptons-Photoshoot05-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Lightbox Gallery Post Type" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/">Lightbox Gallery Post Type</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" rel="bookmark"><time class="entry-date published" datetime="2018-04-26T22:35:59+00:00">avril 26, 2018</time><time class="updated" datetime="2019-02-07T16:37:46+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/3-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Parallax Post Divided Into Columns" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/parallax-post-divided-into-columns/">Parallax Post Divided Into Columns</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" rel="bookmark"><time class="entry-date published" datetime="2018-03-18T11:19:05+00:00">mars 18, 2018</time><time class="updated" datetime="2019-02-07T16:38:58+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/08/Aerin-Tangier-Vanille-Fragrance-Perfume-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="How Travel Makes You More Attractive" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/">How Travel Makes You More Attractive</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" rel="bookmark"><time class="entry-date published" datetime="2018-02-10T21:46:15+00:00">février 10, 2018</time><time class="updated" datetime="2019-02-07T16:48:42+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 							</div></div></div>
 	</div></div></div>
@@ -1276,10 +1132,10 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 		
 		<div class="col-sm-7 col-md-7 left-space">
 	<header class="post-header">
-<div class="meta-space-top post_category"><a class=" category-style-fashion" href="http://localhost/nofilter/category/fashion/" >Fashion</a></div>
+<div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>
 
 			<h2 class="list-post-title"><a href="http://localhost/nofilter/fullwidth-type-post-with-inline-gallery/" title="Fullwidth Type Post with Inline Gallery">Fullwidth Type Post with Inline Gallery</a></h2>
-<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/fullwidth-type-post-with-inline-gallery/" rel="bookmark"><time class="entry-date published updated" datetime="2018-03-27T14:01:13+00:00">mars 27, 2018</time></a></span><span>
+<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/fullwidth-type-post-with-inline-gallery/" rel="bookmark"><time class="entry-date published" datetime="2018-03-27T14:01:13+00:00">mars 27, 2018</time><time class="updated" datetime="2019-02-07T16:38:07+00:00">février 7, 2019</time></a></span><span>
 <i class="fa fa-map-marker" aria-hidden="true"></i> Location: <a href="http://localhost/nofilter/location/london/" rel="tag">London</a> </span>
       <span class="post-comments">
 <i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/fullwidth-type-post-with-inline-gallery/#respond" class="comments-link" >0 Comments</a>      </span>
@@ -1324,10 +1180,10 @@ Beauty has so many forms, and I think the most beautiful thing is confidence and
 		
 		<div class="col-sm-7 col-md-7 left-space">
 	<header class="post-header">
-<div class="meta-space-top post_category"><a class=" category-style-travel" href="http://localhost/nofilter/category/travel/" >Travel</a></div>
+<div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-evenements" href="http://localhost/nofilter/category/evenements/" >Evènements</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a></div>
 
 			<h2 class="list-post-title"><a href="http://localhost/nofilter/video/" title="Slideshow Post Type With Blockquote  and Intro">Slideshow Post Type With Blockquote  and Intro</a></h2>
-<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video/" rel="bookmark"><time class="entry-date published updated" datetime="2018-03-22T22:49:21+00:00">mars 22, 2018</time></a></span><span>
+<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video/" rel="bookmark"><time class="entry-date published" datetime="2018-03-22T22:49:21+00:00">mars 22, 2018</time><time class="updated" datetime="2019-02-07T16:38:17+00:00">février 7, 2019</time></a></span><span>
 <i class="fa fa-map-marker" aria-hidden="true"></i> Location: <a href="http://localhost/nofilter/location/new-york/" rel="tag">New York</a> </span>
       <span class="post-comments">
 <i class="fa fa-comment-o"></i> <a href="http://localhost/nofilter/video/#comments" class="comments-link" >5 Comments</a>      </span>
@@ -1365,17 +1221,15 @@ Once ... </p>
 <div class="block col-xs-12 col-md-12 ajax-post-wrapper" >
 
 
-<article id="post-2165" class="post__holder  post-2165 post type-post status-publish format-standard has-post-thumbnail hentry category-travel tag-photo tag-photography tag-pictures tag-relationships tag-social-media tag-sports tag-tips tag-women tag-writing location-italy location-milan">
+<article id="post-2165" class="post__holder  post-2165 post type-post status-publish format-standard has-post-thumbnail hentry category-lifestyle category-musique category-sciences category-societe tag-photo tag-photography tag-pictures tag-relationships tag-social-media tag-sports tag-tips tag-women tag-writing">
 
 	<div class="row">
 	<div class="col-md-12">
 	<header class="post-header">
 	
-	<div class="meta-space-top post_category"><a class=" category-style-travel" href="http://localhost/nofilter/category/travel/" >Travel</a></div>				
+	<div class="meta-space-top post_category"><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-musique" href="http://localhost/nofilter/category/musique/" >Musique</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>				
 			<h2 class="post-title entry-title" itemprop="name headline"><a href="http://localhost/nofilter/maybe-this-is-due-to-the-revolution-in-social-media/" title="Horizontal Post With Sidebar">Horizontal Post With Sidebar</a></h2>
-				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/maybe-this-is-due-to-the-revolution-in-social-media/" rel="bookmark"><time class="entry-date published updated" datetime="2018-03-20T12:03:50+00:00">mars 20, 2018</time></a></span><span>
-<i class="fa fa-map-marker" aria-hidden="true"></i> Location: <a href="http://localhost/nofilter/location/italy/" rel="tag">Italy</a>, <a href="http://localhost/nofilter/location/milan/" rel="tag">Milan</a> </span>
-      <span class="meta-reading-time">
+				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/maybe-this-is-due-to-the-revolution-in-social-media/" rel="bookmark"><time class="entry-date published" datetime="2018-03-20T12:03:50+00:00">mars 20, 2018</time><time class="updated" datetime="2019-02-07T16:49:50+00:00">février 7, 2019</time></a></span>      <span class="meta-reading-time">
                 3        de lecture      </span>
           <span class="meta-views">
                         142         Vues      </span>
@@ -1451,13 +1305,13 @@ Once ... </p>
 
 			<div class="row"><div class="col-md-12">
  <div class="carousel-wrap slideshows underneath">
- 		<div id="owl-carousel-5c5768e2d3ea6" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="4" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
+ 		<div id="owl-carousel-5c5c62995fcb4" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="6" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
              
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Image Format Post With Review and Intro Text" /></a></figure>				
+				  			            <figure style="" class="thumbnail trending-default"><a href="//www.youtube.com/embed/HjwI24-Xq2M" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/09/H-09-size-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Video Format Post" /></a></figure>				
 				<div class="post-list-inner">
             
-                <h6><a href="http://localhost/nofilter/image-format-post/">Image Format Post With Review and Intro Text</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-03T12:30:21+00:00">février 3, 2019</time></a></span></div>              </div>
+                <h6><a href="http://localhost/nofilter/video-format-post/">Video Format Post</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-02-26T22:30:07+00:00">février 26, 2018</time><time class="updated" datetime="2019-02-07T16:39:15+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
@@ -1465,23 +1319,39 @@ Once ... </p>
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/">Lightbox Gallery Post Type</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" rel="bookmark"><time class="entry-date published" datetime="2018-04-26T22:35:59+00:00">avril 26, 2018</time><time class="updated" datetime="2019-01-18T13:13:54+00:00">janvier 18, 2019</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" rel="bookmark"><time class="entry-date published" datetime="2018-04-26T22:35:59+00:00">avril 26, 2018</time><time class="updated" datetime="2019-02-07T16:37:46+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/video/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/paris-1-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Slideshow Post Type With Blockquote  and Intro" /></a></figure>				
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/Bambu-05-opti-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Standard Post With   Left Sidebar" /></a></figure>				
 				<div class="post-list-inner">
             
-                <h6><a href="http://localhost/nofilter/video/">Slideshow Post Type With Blockquote  and Intro</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video/" rel="bookmark"><time class="entry-date published updated" datetime="2018-03-22T22:49:21+00:00">mars 22, 2018</time></a></span></div>              </div>
+                <h6><a href="http://localhost/nofilter/standard-post-with-left-sidebar/">Standard Post With   Left Sidebar</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/standard-post-with-left-sidebar/" rel="bookmark"><time class="entry-date published" datetime="2018-02-15T21:44:57+00:00">février 15, 2018</time><time class="updated" datetime="2019-02-07T16:49:02+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/08/Aerin-Tangier-Vanille-Fragrance-Perfume-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="How Travel Makes You More Attractive" /></a></figure>				
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2018/05/Hamptons-Header-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Hero Post  Layout Without Sidebar" /></a></figure>				
 				<div class="post-list-inner">
             
-                <h6><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/">How Travel Makes You More Attractive</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" rel="bookmark"><time class="entry-date published" datetime="2018-02-10T21:46:15+00:00">février 10, 2018</time><time class="updated" datetime="2019-01-18T20:23:38+00:00">janvier 18, 2019</time></a></span></div>              </div>
+                <h6><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/">Hero Post  Layout Without Sidebar</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" rel="bookmark"><time class="entry-date published" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time><time class="updated" datetime="2019-02-07T16:37:24+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="//www.youtube.com/embed/EfCOPLDA2wI" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2019/02/Long-Live-the-King-LBJ-x-Kith-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Long Live the King" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/long-live-the-king/">Long Live the King</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/long-live-the-king/" rel="bookmark"><time class="entry-date published" datetime="2019-02-03T22:45:04+00:00">février 3, 2019</time><time class="updated" datetime="2019-02-07T16:36:34+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Tom Leeb : l&rsquo;artiste polyvalent" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/">Tom Leeb : l&rsquo;artiste polyvalent</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-07T11:48:44+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 							</div></div></div>
 	</div></div></div>
@@ -1496,7 +1366,7 @@ Once ... </p>
 <div class="block col-xs-12 col-md-12 ajax-post-wrapper" >
 
 
-<article id="post-1412" class="post__holder  post-1412 post type-post status-publish format-standard has-post-thumbnail hentry category-personal tag-photo tag-photography tag-pictures tag-relationships tag-social-media tag-sports tag-tips tag-women tag-writing location-france location-paris">
+<article id="post-1412" class="post__holder  post-1412 post type-post status-publish format-standard has-post-thumbnail hentry category-arts category-lifestyle category-sciences category-societe tag-photo tag-photography tag-pictures tag-relationships tag-social-media tag-sports tag-tips tag-women tag-writing location-france location-paris">
 
 	<div class="row">
 	<div class="col-md-12">
@@ -1514,14 +1384,14 @@ Once ... </p>
 					<section class="single-title-section">
 <header class="post-header">
 	
-	<div class="meta-space-top post_category"><a class=" category-style-personal" href="http://localhost/nofilter/category/personal/" >Personal</a></div>				
+	<div class="meta-space-top post_category"><a class=" category-style-arts" href="http://localhost/nofilter/category/arts/" >Arts</a><a class=" category-style-lifestyle" href="http://localhost/nofilter/category/lifestyle/" >Lifestyle</a><a class=" category-style-sciences" href="http://localhost/nofilter/category/sciences/" >Sciences</a><a class=" category-style-societe" href="http://localhost/nofilter/category/societe/" >Société</a></div>				
 			<h2 class="post-title entry-title" itemprop="name headline"><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" title="Parallax Post Divided Into Columns">Parallax Post Divided Into Columns</a></h2>
-				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" rel="bookmark"><time class="entry-date published" datetime="2018-03-18T11:19:05+00:00">mars 18, 2018</time><time class="updated" datetime="2019-01-18T20:24:17+00:00">janvier 18, 2019</time></a></span><span>
+				<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/parallax-post-divided-into-columns/" rel="bookmark"><time class="entry-date published" datetime="2018-03-18T11:19:05+00:00">mars 18, 2018</time><time class="updated" datetime="2019-02-07T16:38:58+00:00">février 7, 2019</time></a></span><span>
 <i class="fa fa-map-marker" aria-hidden="true"></i> Location: <a href="http://localhost/nofilter/location/france/" rel="tag">France</a>, <a href="http://localhost/nofilter/location/paris/" rel="tag">Paris</a> </span>
       <span class="meta-reading-time">
                 3        de lecture      </span>
           <span class="meta-views">
-                        363         Vues      </span>
+                        364         Vues      </span>
     </div></header></section></div></div></div></div>
 	
 				<div class="isopad">
@@ -1583,13 +1453,37 @@ Once ... </p>
 
 			<div class="row"><div class="col-md-12">
  <div class="carousel-wrap slideshows underneath">
- 		<div id="owl-carousel-5c5768e2dc1f7" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="3" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
+ 		<div id="owl-carousel-5c5c62996e737" class="owl-carousel-post owl-carousel" data-center="false" data-howmany="6" data-margin="30" data-items="3" data-tablet="2" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="true" data-rtl="" data-pagination="false">				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/fullwidth-type-post-with-inline-gallery/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2018/05/md-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Fullwidth Type Post with Inline Gallery" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/fullwidth-type-post-with-inline-gallery/">Fullwidth Type Post with Inline Gallery</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/fullwidth-type-post-with-inline-gallery/" rel="bookmark"><time class="entry-date published" datetime="2018-03-27T14:01:13+00:00">mars 27, 2018</time><time class="updated" datetime="2019-02-07T16:38:07+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
              
 				  			            <figure style="" class="thumbnail trending-default"><a href="//www.youtube.com/embed/HjwI24-Xq2M" class="hover-thumbnail popup-youtube"><div class="cover-video"></div><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/09/H-09-size-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Video Format Post" /></a></figure>				
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/video-format-post/">Video Format Post</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post/" rel="bookmark"><time class="entry-date published updated" datetime="2018-02-26T22:30:07+00:00">février 26, 2018</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/video-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-02-26T22:30:07+00:00">février 26, 2018</time><time class="updated" datetime="2019-02-07T16:39:15+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2016/10/Nina-Agdal-Massimo-Dutti-Hamptons-Photoshoot05-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Lightbox Gallery Post Type" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/">Lightbox Gallery Post Type</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/" rel="bookmark"><time class="entry-date published" datetime="2018-04-26T22:35:59+00:00">avril 26, 2018</time><time class="updated" datetime="2019-02-07T16:37:46+00:00">février 7, 2019</time></a></span></div>              </div>
+            </div>
+				            <div class="owl-slide post-list_h">
+             
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2018/05/Hamptons-Header-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Hero Post  Layout Without Sidebar" /></a></figure>				
+				<div class="post-list-inner">
+            
+                <h6><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/">Hero Post  Layout Without Sidebar</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/hero-post-layout-with-sidebar/" rel="bookmark"><time class="entry-date published" datetime="2018-05-01T16:44:49+00:00">mai 1, 2018</time><time class="updated" datetime="2019-02-07T16:37:24+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
@@ -1597,15 +1491,15 @@ Once ... </p>
 				<div class="post-list-inner">
             
                 <h6><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/">How Travel Makes You More Attractive</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" rel="bookmark"><time class="entry-date published" datetime="2018-02-10T21:46:15+00:00">février 10, 2018</time><time class="updated" datetime="2019-01-18T20:23:38+00:00">janvier 18, 2019</time></a></span></div>              </div>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/how-travel-makes-you-more-attractive/" rel="bookmark"><time class="entry-date published" datetime="2018-02-10T21:46:15+00:00">février 10, 2018</time><time class="updated" datetime="2019-02-07T16:48:42+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 				            <div class="owl-slide post-list_h">
              
-				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2017/01/H-02-opti-min-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Image Format Post With Review and Intro Text" /></a></figure>				
+				  			            <figure style="" class="thumbnail trending-default"><a href="http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb.jpg" class="hover-thumbnail image-popup-no-margins"><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2019/02/Tom-Leeb-560x720.jpg" width="560" height="720" class="attachment lazyload" alt="Tom Leeb : l&rsquo;artiste polyvalent" /></a></figure>				
 				<div class="post-list-inner">
             
-                <h6><a href="http://localhost/nofilter/image-format-post/">Image Format Post With Review and Intro Text</a></h6>
-               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/image-format-post/" rel="bookmark"><time class="entry-date published" datetime="2018-05-02T12:04:32+00:00">mai 2, 2018</time><time class="updated" datetime="2019-02-03T12:30:21+00:00">février 3, 2019</time></a></span></div>              </div>
+                <h6><a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/">Tom Leeb : l&rsquo;artiste polyvalent</a></h6>
+               <div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/" rel="bookmark"><time class="entry-date published updated" datetime="2019-02-07T11:48:44+00:00">février 7, 2019</time></a></span></div>              </div>
             </div>
 							</div></div></div>
 	</div></div></div>
@@ -1625,8 +1519,8 @@ Once ... </p>
 		<h2 class="screen-reader-text">Navigation des articles</h2>
 		<div class="nav-links"><ul class='page-numbers'>
 	<li><span aria-current='page' class='page-numbers current'>1</span></li>
-	<li><a class='page-numbers' href='http://localhost/nofilter/page/2/?customize_changeset_uuid=58146b52-5a94-48a6-acf4-23499d63ca75&#038;customize_theme=buzzblogpro-child&#038;customize_messenger_channel=preview-15&#038;customize_autosaved=on'>2</a></li>
-	<li><a class="next page-numbers" href="http://localhost/nofilter/page/2/?customize_changeset_uuid=58146b52-5a94-48a6-acf4-23499d63ca75&#038;customize_theme=buzzblogpro-child&#038;customize_messenger_channel=preview-15&#038;customize_autosaved=on">Next &rarr;</a></li>
+	<li><a class='page-numbers' href='http://localhost/nofilter/page/2/?customize_changeset_uuid=6e483cac-7302-4748-8e50-58cf76eed05d&#038;customize_theme=buzzblogpro-child&#038;customize_messenger_channel=preview-0'>2</a></li>
+	<li><a class="next page-numbers" href="http://localhost/nofilter/page/2/?customize_changeset_uuid=6e483cac-7302-4748-8e50-58cf76eed05d&#038;customize_theme=buzzblogpro-child&#038;customize_messenger_channel=preview-0">Next &rarr;</a></li>
 </ul>
 </div>
 	</nav>
@@ -1637,7 +1531,10 @@ Once ... </p>
 <!--dynamic_sidebar_before:hs_main_sidebar:1-->
 		<div  data-customize-partial-id="widget[recent-posts-2]" data-customize-partial-type="widget" data-customize-partial-placement-context="{&quot;sidebar_id&quot;:&quot;hs_main_sidebar&quot;,&quot;sidebar_instance_number&quot;:1}" data-customize-widget-id="recent-posts-2" id="recent-posts-2" class="widget widget_recent_entries"><div class="widget-content">		<h4 class="subtitle">Articles récents</h4>		<ul>
 											<li>
-					<a href="http://localhost/nofilter/video-format-post-2/">Video Format Post 2</a>
+					<a href="http://localhost/nofilter/tom-leeb-lartiste-polyvalent/">Tom Leeb : l&rsquo;artiste polyvalent</a>
+									</li>
+											<li>
+					<a href="http://localhost/nofilter/long-live-the-king/">Long Live the King</a>
 									</li>
 											<li>
 					<a href="http://localhost/nofilter/image-format-post/">Image Format Post With Review and Intro Text</a>
@@ -1648,16 +1545,11 @@ Once ... </p>
 											<li>
 					<a href="http://localhost/nofilter/animated-gif-type-post/">Animated Gif Type Post</a>
 									</li>
-											<li>
-					<a href="http://localhost/nofilter/the-most-glorious-glamping-getaways-for-your-labor-day-weekend/">Lightbox Gallery Post Type</a>
-									</li>
 					</ul>
 		</div></div><div  data-customize-partial-id="widget[categories-2]" data-customize-partial-type="widget" data-customize-partial-placement-context="{&quot;sidebar_id&quot;:&quot;hs_main_sidebar&quot;,&quot;sidebar_instance_number&quot;:1}" data-customize-widget-id="categories-2" id="categories-2" class="stylenone widget widget_categories"><div class="widget-content"><h4 class="subtitle">Catégories</h4>		<ul>
 	<li class="cat-item cat-item-37"><a href="http://localhost/nofilter/category/arts/" >Arts</a>
 </li>
 	<li class="cat-item cat-item-40"><a href="http://localhost/nofilter/category/evenements/" >Evènements</a>
-</li>
-	<li class="cat-item cat-item-2"><a href="http://localhost/nofilter/category/fashion/" >Fashion</a>
 </li>
 	<li class="cat-item cat-item-3"><a href="http://localhost/nofilter/category/beauty/" title="Beauty has so many forms, and I think the most beautiful thing is confidence and loving yourself.">Inspiration</a>
 </li>
@@ -1665,11 +1557,9 @@ Once ... </p>
 </li>
 	<li class="cat-item cat-item-35"><a href="http://localhost/nofilter/category/musique/" >Musique</a>
 </li>
-	<li class="cat-item cat-item-4"><a href="http://localhost/nofilter/category/personal/" >Personal</a>
+	<li class="cat-item cat-item-39"><a href="http://localhost/nofilter/category/sciences/" >Sciences</a>
 </li>
 	<li class="cat-item cat-item-36"><a href="http://localhost/nofilter/category/societe/" >Société</a>
-</li>
-	<li class="cat-item cat-item-5"><a href="http://localhost/nofilter/category/travel/" >Travel</a>
 </li>
 		</ul>
 </div></div><div data-customize-partial-id="widget[buzzblogpro_aboutmebox-1]" data-customize-partial-type="widget" data-customize-partial-placement-context="{&quot;sidebar_id&quot;:&quot;hs_main_sidebar&quot;,&quot;sidebar_instance_number&quot;:1}" data-customize-widget-id="buzzblogpro_aboutmebox-1" id="buzzblogpro_aboutmebox-1" class="style1 widget buzzblogpro_aboutmebox"><div class="widget-content"><div class="widget-body  imgcircle"><div class="hs_about_img buzzblogpro_aboutmebox-1"><figure class="thumbnail"><img class="lazyload" src="http://localhost/nofilter/wp-content/themes/buzzblogpro-child/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2019/01/350x350-01-150x150.png" width="150" height="150" alt="Bonjour !" /></figure></div><div class="hs_aboutme_text post-list-inner"><h3 style="font-size:26px;"><b>Bonjour !</b></h3><p class="about_para">No Filter est un média Pop Culture qui a pour vocation de traiter dess sujets avec simplicité et pour leur authenticité autour de la culture populaire et urbaine.</p><div class="readmore-button"><a href="/about-me/" class="btn btn-default btn-normal">En savoir plus !!</a></div></div></div></div></div><div  data-customize-partial-id="widget[buzzblogpro-social-1]" data-customize-partial-type="widget" data-customize-partial-placement-context="{&quot;sidebar_id&quot;:&quot;hs_main_sidebar&quot;,&quot;sidebar_instance_number&quot;:1}" data-customize-widget-id="buzzblogpro-social-1" id="buzzblogpro-social-1" class="stylenone widget widget-social-buzzblogpro"><div class="widget-content"><h4 class="subtitle">Suivez nous sur les réseaux sociaux !!</h4>				
@@ -1778,10 +1668,7 @@ Once ... </p>
 					</ul>
 		
 		</div></div><div  data-customize-partial-id="widget[buzzblogpro_pinterest_widget-1]" data-customize-partial-type="widget" data-customize-partial-placement-context="{&#34;sidebar_id&#34;:&#34;hs_main_sidebar&#34;,&#34;sidebar_instance_number&#34;:1}" data-customize-widget-id="buzzblogpro_pinterest_widget-1" id="buzzblogpro_pinterest_widget-1" class="stylenone widget buzzblogpro_pinterest_widget"><div class="widget-content"><h4 class="subtitle">Recent Pins</h4><div class="buzzblogpro-pinterest-widget-container imgs_wrapper"><div class="images clearfix"><figure class="effect-bubba"><a class="overlay-button" href="https://www.pinterest.com/pin/280489883028734852/" title="Khaki has an undenia" target="_blank" alt="Khaki has an undenia"></a><img class="buzzblogpro-image-holder lazyload" data-src="//i.pinimg.com/236x/5f/14/ce/5f14ced6eaba2f91aa9f8af544371912.jpg" width="90" height="90" /></figure><figure class="effect-bubba"><a class="overlay-button" href="https://www.pinterest.com/pin/280489883028734842/" title="Military green meets" target="_blank" alt="Military green meets"></a><img class="buzzblogpro-image-holder lazyload" data-src="//i.pinimg.com/236x/16/6e/49/166e4922e8e880ab78e75fea0f0ede7e.jpg" width="90" height="90" /></figure><figure class="effect-bubba"><a class="overlay-button" href="https://www.pinterest.com/pin/280489883028734834/" title="Light and uncomplica" target="_blank" alt="Light and uncomplica"></a><img class="buzzblogpro-image-holder lazyload" data-src="//i.pinimg.com/236x/63/e1/54/63e1540533972a73d28ea91da9ae88fd.jpg" width="90" height="90" /></figure><figure class="effect-bubba"><a class="overlay-button" href="https://www.pinterest.com/pin/280489883028734830/" title="Meet the new cover u" target="_blank" alt="Meet the new cover u"></a><img class="buzzblogpro-image-holder lazyload" data-src="//i.pinimg.com/236x/cc/c9/33/ccc9335b49d866208c4c82913055f064.jpg" width="90" height="90" /></figure><figure class="effect-bubba"><a class="overlay-button" href="https://www.pinterest.com/pin/280489883028734821/" title="Future-proof your wo" target="_blank" alt="Future-proof your wo"></a><img class="buzzblogpro-image-holder lazyload" data-src="//i.pinimg.com/236x/16/56/dc/1656dca681b235fa8dbac103f90bc247.jpg" width="90" height="90" /></figure><figure class="effect-bubba"><a class="overlay-button" href="https://www.pinterest.com/pin/280489883028734818/" title="Our button-down card" target="_blank" alt="Our button-down card"></a><img class="buzzblogpro-image-holder lazyload" data-src="//i.pinimg.com/236x/99/5d/89/995d898c7dd73980253430bb1f698049.jpg" width="90" height="90" /></figure><figure class="effect-bubba"><a class="overlay-button" href="https://www.pinterest.com/pin/280489883028734813/" title="The cardigan makes a" target="_blank" alt="The cardigan makes a"></a><img class="buzzblogpro-image-holder lazyload" data-src="//i.pinimg.com/236x/48/25/4c/48254c4138a3da40dbab23e3f45d3581.jpg" width="90" height="90" /></figure><figure class="effect-bubba"><a class="overlay-button" href="https://www.pinterest.com/pin/280489883028734803/" title="At home or away, a d" target="_blank" alt="At home or away, a d"></a><img class="buzzblogpro-image-holder lazyload" data-src="//i.pinimg.com/236x/35/32/c4/3532c466944ee4908144b75fa0782bd8.jpg" width="90" height="90" /></figure><figure class="effect-bubba"><a class="overlay-button" href="https://www.pinterest.com/pin/280489883028734798/" title="Take a shine to jewe" target="_blank" alt="Take a shine to jewe"></a><img class="buzzblogpro-image-holder lazyload" data-src="//i.pinimg.com/236x/0e/85/0c/0e850cf1c526de3f47524fb315bec963.jpg" width="90" height="90" /></figure>			</div>
-					</div></div></div><div data-customize-partial-id="widget[buzzblogpro_postsblock2-1]" data-customize-partial-type="widget" data-customize-partial-placement-context="{&quot;sidebar_id&quot;:&quot;hs_main_sidebar&quot;,&quot;sidebar_instance_number&quot;:1}" data-customize-widget-id="buzzblogpro_postsblock2-1" id="buzzblogpro_postsblock2-1" class="stylenone widget buzzblogpro_PostsBlock2"><div class="widget-content">			<h4 class="subtitle"><a href="http://localhost/nofilter/category/fashion/">Fashion</a></h4>
-				<div class="row post_block_2 grid-item-0"><div class="cat_post_item-0 small-post col-xs-12 col-sm-6 col-md-12"><div class="post-grid-block post"><div class="thumb-container"><figure style="" class="thumbnail "><a href="http://localhost/nofilter/fullwidth-type-post-with-inline-gallery/" class="hover-thumbnail "><img data-sizes="auto" src="http://localhost/nofilter/wp-content/themes/buzzblogpro/images/empty.png" data-src="http://localhost/nofilter/wp-content/uploads/2018/05/md-110x106.jpg" width="110" height="106" class="attachment lazyload" alt="Fullwidth Type Post with Inline Gallery" /></a></figure></div><header class="post-header">						<div class="meta-space-top post_category"><a class=" category-style-fashion" href="http://localhost/nofilter/category/fashion/" >Fashion</a></div>							<h2 class="grid-post-title"><a href="http://localhost/nofilter/fullwidth-type-post-with-inline-gallery/" title="Fullwidth Type Post with Inline Gallery">Fullwidth Type Post with Inline Gallery</a></h2>
-		<div class=" meta-space-top"><span class="posted-on"><span class="screen-reader-text">Posted on </span><time class="entry-date published updated" datetime="2018-03-27T14:01:13+00:00">mars 27, 2018</time></span></div><div class="clear"></div></header>	 			</div></div></div>		
-		
+					</div></div></div><div data-customize-partial-id="widget[buzzblogpro_postsblock2-1]" data-customize-partial-type="widget" data-customize-partial-placement-context="{&quot;sidebar_id&quot;:&quot;hs_main_sidebar&quot;,&quot;sidebar_instance_number&quot;:1}" data-customize-widget-id="buzzblogpro_postsblock2-1" id="buzzblogpro_postsblock2-1" class="stylenone widget buzzblogpro_PostsBlock2"><div class="widget-content">
 </div></div>
 <!--dynamic_sidebar_after:hs_main_sidebar:1-->
                     </div></div>
@@ -1958,7 +1845,7 @@ Once ... </p>
 	
 <!--dynamic_sidebar_before:hs_bottom_3:1-->
 <div data-customize-partial-id="widget[buzzblogpro-twitter-1]" data-customize-partial-type="widget" data-customize-partial-placement-context="{&quot;sidebar_id&quot;:&quot;hs_bottom_3&quot;,&quot;sidebar_instance_number&quot;:1}" data-customize-widget-id="buzzblogpro-twitter-1" id="buzzblogpro-twitter-1" class="stylenone hs_bottom_3 twitter"><div class="widget-content"><div class="footer_heading"><h4 class="before_blog_title">Latest Tweets</h4></div><div class="twitter-list ">
-			<div id="twitter-block-1"><i class="hs hs-twitter"></i><div id="owl-carousel-nqdpjxmhvq" class="owl-carousel twitter-list" data-howmany="3" data-margin="10" data-items="1" data-tablet="1" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="false" data-rtl="false" data-pagination="true"><div class="twitter-item"><a href="//twitter.com/PhilakoneCrypto" target="_blank" title="Philakone" class="twitter-user">@PhilakoneCrypto</a> I did not listen to you and did wrong 😂<br /><em class="twitter-timestamp"><small>11 mois ago</small></em></div><div class="twitter-item">Hello We Added Animated Gif Support for Posts, so Check that out 'NovaBlog <a href="https://t.co/VDE5RiTziZ" target="_blank" title="http://novablog-demo.hercules-design.com" class="twitter-user">novablog-demo.hercules-design.com</a> <a href="https://t.co/ESVIhSP8c8" target="_blank" title="https://twitter.com/Hercules_group/status/885184489235906561/photo/1" class="twitter-media">pic.twitter.com/ESVIhSP8c8</a><br /><em class="twitter-timestamp"><small>2 années ago</small></em></div><div class="twitter-item">Check out New Feminine Demos 'NovaBlog - Multi-Concept Blog / Magazine WordPress Theme' <a href="https://t.co/KpVlIUnTqb" target="_blank" title="https://themeforest.net/item/novablog-multiconcept-blog-magazine-wordpress-theme/19504449?utm_source=sharetw" class="twitter-user">themeforest.net/item/novablog-…</a> <a href="https://t.co/OshAIy4zSG" target="_blank" title="https://twitter.com/Hercules_group/status/885147759119966208/photo/1" class="twitter-media">pic.twitter.com/OshAIy4zSG</a><br /><em class="twitter-timestamp"><small>2 années ago</small></em></div></div></div></div></div></div>
+			<div id="twitter-block-1"><i class="hs hs-twitter"></i><div id="owl-carousel-thjgmadivu" class="owl-carousel twitter-list" data-howmany="3" data-margin="10" data-items="1" data-tablet="1" data-mobile="1"  data-auto-play="true" data-auto-play-timeout="5000" data-nav="false" data-rtl="false" data-pagination="true"><div class="twitter-item"><a href="//twitter.com/PhilakoneCrypto" target="_blank" title="Philakone" class="twitter-user">@PhilakoneCrypto</a> I did not listen to you and did wrong 😂<br /><em class="twitter-timestamp"><small>11 mois ago</small></em></div><div class="twitter-item">Hello We Added Animated Gif Support for Posts, so Check that out 'NovaBlog <a href="https://t.co/VDE5RiTziZ" target="_blank" title="http://novablog-demo.hercules-design.com" class="twitter-user">novablog-demo.hercules-design.com</a> <a href="https://t.co/ESVIhSP8c8" target="_blank" title="https://twitter.com/Hercules_group/status/885184489235906561/photo/1" class="twitter-media">pic.twitter.com/ESVIhSP8c8</a><br /><em class="twitter-timestamp"><small>2 années ago</small></em></div><div class="twitter-item">Check out New Feminine Demos 'NovaBlog - Multi-Concept Blog / Magazine WordPress Theme' <a href="https://t.co/KpVlIUnTqb" target="_blank" title="https://themeforest.net/item/novablog-multiconcept-blog-magazine-wordpress-theme/19504449?utm_source=sharetw" class="twitter-user">themeforest.net/item/novablog-…</a> <a href="https://t.co/OshAIy4zSG" target="_blank" title="https://twitter.com/Hercules_group/status/885147759119966208/photo/1" class="twitter-media">pic.twitter.com/OshAIy4zSG</a><br /><em class="twitter-timestamp"><small>2 années ago</small></em></div></div></div></div></div></div>
 <!--dynamic_sidebar_after:hs_bottom_3:1-->
     </div>
 </div>
@@ -1973,7 +1860,7 @@ Once ... </p>
 				<h4><span>Suivez nous sur Instagram !!<a class="instagram-follow-btn" href="//instagram.com/mack_nfp/" rel="me" target="_blank">@nofilter_fr</a>
 			</span></h4>		</div> 
 				<figure class="effect-bubba">
-						<a href="//instagram.com/p/BtJe8yihNrh/" target="_blank"  class="overlay-button "></a><img class="lazyload" data-src="//scontent-cdg2-1.cdninstagram.com/vp/a5d750b42278c84b8366fa7853d31d7d/5C5A165E/t51.2885-15/e15/s640x640/50481801_740726966299559_6664624186055565168_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com" alt="Instagram Image" title="Instagram Image" width="640" height="640" />
+						<a href="//instagram.com/p/BtJe8yihNrh/" target="_blank"  class="overlay-button "></a><img class="lazyload" data-src="//scontent-cdg2-1.cdninstagram.com/vp/2cedec9c1f6f341e7af96d67b59014c5/5C5F5C5E/t51.2885-15/e15/s640x640/50481801_740726966299559_6664624186055565168_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com" alt="Instagram Image" title="Instagram Image" width="640" height="640" />
 						<figcaption> 
 							<p class="icon-links">
 								<span class="icon-heart"><i class="fa fa-heart-o"></i>35</span>
@@ -1983,7 +1870,7 @@ Once ... </p>
 							<p class="description">Instagram Image</p>
 						</figcaption>			
 					</figure><figure class="effect-bubba">
-						<a href="//instagram.com/p/BslgtKanOfw/" target="_blank"  class="overlay-button "></a><img class="lazyload" data-src="//scontent-cdg2-1.cdninstagram.com/vp/3a95d76decb07d8c002480a0b09a835c/5C5A1AA1/t51.2885-15/e15/50000884_2002321336733846_3789662656619372654_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com" alt="Coming soon @paroxysmusic •@mrpurple_ •@benopmg •@choppypmg 
+						<a href="//instagram.com/p/BslgtKanOfw/" target="_blank"  class="overlay-button "></a><img class="lazyload" data-src="//scontent-cdg2-1.cdninstagram.com/vp/1fa00fb53b764fce4e1fd2db45806dd6/5C5F60A1/t51.2885-15/e15/50000884_2002321336733846_3789662656619372654_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com" alt="Coming soon @paroxysmusic •@mrpurple_ •@benopmg •@choppypmg 
 L’œuvre artistique finit toujours par se dévoiler —
 —
 #music #genre #song #songs #socialsteeze #socialsteezelody #hiphop #rnb #pop #love #rap #dubstep #instagood #beat #beats #jam #myjam #party #partymusic #newsong #lovethissong #remix #favoritesong #bestsong #photooftheday #listentothis #goodmusic #instamusic" title="Coming soon @paroxysmusic •@mrpurple_ •@benopmg •@choppypmg 
@@ -2011,7 +1898,7 @@ L’œuvre artistique finit toujours par se dévoiler —
 							<p class="description">Gentlemen with one ♥️ of...</p>
 						</figcaption>			
 					</figure><figure class="effect-bubba">
-						<a href="//instagram.com/p/BrqZ_G3h9OK/" target="_blank"  class="overlay-button "></a><img class="lazyload" data-src="//scontent-cdg2-1.cdninstagram.com/vp/ecea4b5d0b4db550be0fb6a68adf4b6a/5C59C6AF/t51.2885-15/e15/s640x640/47381584_602610920209218_4159911437928704159_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com" alt="80%
+						<a href="//instagram.com/p/BrqZ_G3h9OK/" target="_blank"  class="overlay-button "></a><img class="lazyload" data-src="//scontent-cdg2-1.cdninstagram.com/vp/f716e7572546eca7da4227708a987bb9/5C5E63EF/t51.2885-15/e15/s640x640/47381584_602610920209218_4159911437928704159_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com" alt="80%
 ——
 ——
 nofilter
@@ -2113,7 +2000,7 @@ nofilter
 							<p class="description">U.N.L.I.M.I.T.E.D. —— —— #art #illustration...</p>
 						</figcaption>			
 					</figure><figure class="effect-bubba">
-						<a href="//instagram.com/p/BrHhGrIBKw2/" target="_blank"  class="overlay-button "></a><img class="lazyload" data-src="//scontent-cdg2-1.cdninstagram.com/vp/e8073da5eba2aa1094d946906a5c59da/5C5A1B56/t51.2885-15/e15/46770820_728589124165656_9161780517288470896_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com" alt="morning vibes🌖🥃🎹
+						<a href="//instagram.com/p/BrHhGrIBKw2/" target="_blank"  class="overlay-button "></a><img class="lazyload" data-src="//scontent-cdg2-1.cdninstagram.com/vp/723cc69b4397f6c0faf6dcb3f7786a9c/5C5F6156/t51.2885-15/e15/46770820_728589124165656_9161780517288470896_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com" alt="morning vibes🌖🥃🎹
 ——
 ——
 #music #genre #song #songs #socialsteeze #socialsteezelody #hiphop #rnb #pop #love #rap #dubstep #instagood #beat #beats #jam #myjam #party #partymusic #newsong #lovethissong #remix #favoritesong #bestsong #photooftheday #listentothis #goodmusic #instamusic #piano #coversong" title="morning vibes🌖🥃🎹
@@ -2264,7 +2151,7 @@ var inf_var = {"load_more":"Load more","you_reached_the_end":"No more items to l
 <script type='text/javascript' src='http://localhost/nofilter/wp-content/themes/buzzblogpro/js/jquery.custom.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
-var buzzblogproScript = {"fixedHeader":"fixed-header","ajax_nonce":"9b0ade3f00","ajax_url":"http:\/\/localhost\/nofilter\/wp-admin\/admin-ajax.php","events":"mouseenter","top_nav_side":"left","main_nav_side":"right","wait":"","must_fill":"Enter email address"};
+var buzzblogproScript = {"fixedHeader":"fixed-header","ajax_nonce":"90776940ff","ajax_url":"http:\/\/localhost\/nofilter\/wp-admin\/admin-ajax.php","events":"mouseenter","top_nav_side":"left","main_nav_side":"right","wait":"","must_fill":"Enter email address"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='http://localhost/nofilter/wp-content/themes/buzzblogpro/includes/main-menu/js/buzzblogpro.mega-menu.js'></script>
@@ -2283,7 +2170,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/nofilter\/wp-admin\/admin-ajax.php"}};
 <script type='text/javascript' src='http://localhost/nofilter/wp-includes/js/customize-preview-nav-menus.min.js'></script>
 <script type='text/javascript' src='http://localhost/nofilter/wp-includes/js/wp-embed.min.js'></script>
 		<script type="text/javascript">
-			var _wpCustomizeSettings = {"changeset":{"uuid":"58146b52-5a94-48a6-acf4-23499d63ca75","autosaved":true},"timeouts":{"selectiveRefresh":250,"keepAliveSend":1000},"theme":{"stylesheet":"buzzblogpro-child","active":true},"url":{"self":"\/nofilter\/?customize_autosaved=on","allowed":["http:\/\/localhost\/nofilter\/"],"allowedHosts":["localhost"],"isCrossDomain":false},"channel":"preview-15","activePanels":{"themes":true,"nav_menus":true,"widgets":true},"activeSections":{"installed_themes":true,"wporg_themes":true,"nav_menu[30]":true,"nav_menu[31]":true,"nav_menu[41]":true,"add_menu":true,"menu_locations":true,"basic":true,"hs-translate":true,"hs-header-styling":true,"hs-theme-styles":true,"hs-logo-favicon":true,"hs-navigation":true,"hs-blog":true,"hs-page-options":true,"hs-blog-categories":true,"hs-custom-signature":true,"hs-slideshow":true,"hs-trending-slideshow":true,"promo-slides":true,"hs-social":true,"hs-fixed-social":true,"hs-bloggrid":true,"hs-bloglist":true,"hs-blogzigzag":true,"hs-gallery":true,"title_tagline":true,"hs-sidebar":true,"hs-footer":true,"hs-cookie-banner":true,"hs-newsletter":true,"hs-login-form":true,"hs-woocommerce":true,"hs-twitter-settings":true,"hs-google-analytics":true,"hs-ads":true,"hs-review":true,"custom-fonts":true,"updater":true,"colors":true,"static_front_page":true,"custom_css":true,"sidebar-widgets-hs_main_sidebar":true,"sidebar-widgets-hs_under_first_post":true,"sidebar-widgets-hs_under_second_post":true,"sidebar-widgets-hs_under_third_post":true,"sidebar-widgets-hs_under_fourth_post":false,"sidebar-widgets-hs_under_fifth_post":false,"sidebar-widgets-hs_front_page_1":true,"sidebar-widgets-hs_before_blog":true,"sidebar-widgets-hs_top_instagram":true,"sidebar-widgets-hs_top_0":true,"sidebar-widgets-hs_top_1":true,"sidebar-widgets-hs_top_2":true,"sidebar-widgets-hs_bottom_1":true,"sidebar-widgets-hs_bottom_2":true,"sidebar-widgets-hs_bottom_3":true,"sidebar-widgets-hs_instagram_area":true,"sidebar-widgets-hs_bottom_4":true,"sidebar-widgets-hs_under_header":true,"sidebar-widgets-hs_under_header_logo":true,"sidebar-widgets-hs_left_header_logo":true,"sidebar-widgets-hs_right_header_logo":true,"sidebar-widgets-hs_left_fullwidthleftright_menu":false,"sidebar-widgets-hs_right_fullwidthleftright_menu":false,"sidebar-widgets-hs_under_footer_logo":true,"sidebar-widgets-hs_side_panel":true,"sidebar-widgets-hs_newsletter_popup":true,"sidebar-widgets-hs_single_post_widget":false,"sidebar-widgets-hs_mobile_top_panel":true,"sidebar-widgets-hs_ads":false,"sidebar-widgets-buzzblogpro_sidebar_14":false,"sidebar-widgets-buzzblogpro_sidebar_15":false,"sidebar-widgets-buzzblogpro_sidebar_16":false},"activeControls":{"buzzblogpro_options[hs_container_size]":true,"buzzblogpro_options[main_layout]":true,"blogname":true,"blogdescription":true,"show_on_front":true,"page_on_front":true,"page_for_posts":true,"custom_css":true,"nav_menu_locations[primary-menu]":true,"nav_menu_locations[split-right-menu]":true,"nav_menu_locations[top-menu]":true,"nav_menu_locations[mobile_menu]":true,"nav_menu_locations[footer_menu]":true,"nav_menu_item[8631]":true,"nav_menu_item[8668]":true,"nav_menu_item[8702]":true,"buzzblogpro_options[enable_translate]":true,"nav_menu_item[8632]":true,"nav_menu_item[8605]":true,"nav_menu_item[8712]":true,"buzzblogpro_options[whatdoyouthink_text]":true,"nav_menu_item[8607]":true,"nav_menu_item[8703]":true,"buzzblogpro_options[postcomment_text]":true,"nav_menu_item[8591]":true,"nav_menu_item[8713]":true,"buzzblogpro_options[reply_text]":true,"nav_menu_item[8598]":true,"nav_menu_item[8704]":true,"buzzblogpro_options[upnext_text]":true,"nav_menu_item[8589]":true,"nav_menu_item[8714]":true,"buzzblogpro_options[previously_text]":true,"nav_menu_item[8597]":true,"nav_menu_item[8705]":true,"buzzblogpro_options[continuereading_text]":true,"nav_menu_item[8592]":true,"nav_menu_item[8715]":true,"buzzblogpro_options[subscribe_text]":true,"nav_menu_item[8593]":true,"nav_menu_item[8706]":true,"buzzblogpro_options[youmightalsolike_text]":true,"nav_menu_item[8624]":true,"nav_menu_item[8716]":true,"buzzblogpro_options[min_read_text]":true,"nav_menu_item[8629]":true,"nav_menu_item[8707]":true,"buzzblogpro_options[location_text]":true,"nav_menu_item[8625]":true,"nav_menu_item[8717]":true,"buzzblogpro_options[share_on_text]":true,"nav_menu_item[8626]":true,"nav_menu_item[8708]":true,"buzzblogpro_options[before_author_text]":true,"nav_menu_item[8627]":true,"nav_menu_item[8718]":true,"buzzblogpro_options[trending_text]":true,"nav_menu_item[8628]":true,"nav_menu_item[8709]":true,"buzzblogpro_options[most_popular_text]":true,"nav_menu_item[8596]":true,"nav_menu_item[8719]":true,"buzzblogpro_options[views_text]":true,"nav_menu_item[8611]":true,"nav_menu_item[8710]":true,"buzzblogpro_options[header_layout]":true,"nav_menu_item[8615]":true,"nav_menu_item[8720]":true,"buzzblogpro_options[split_menu_align_items]":true,"nav_menu_item[8590]":true,"nav_menu_item[8711]":true,"buzzblogpro_options[fullwidth_menu]":true,"nav_menu_item[8612]":true,"nav_menu_item[8721]":true,"buzzblogpro_options[remove_header_other_pages]":true,"nav_menu_item[8594]":true,"nav_menu_item[8623]":true,"buzzblogpro_options[overlay_color]":true,"nav_menu_item[8622]":true,"buzzblogpro_options[enable_header_parallax]":true,"nav_menu_item[8621]":true,"buzzblogpro_options[enable_video_home]":true,"nav_menu_item[8620]":true,"buzzblogpro_options[header_video_url]":true,"nav_menu_item[8619]":true,"buzzblogpro_options[header_video_start]":true,"nav_menu_item[8618]":true,"buzzblogpro_options[header_video_end]":true,"nav_menu_item[8617]":true,"nav_menu_item[8616]":true,"nav_menu_item[8595]":true,"nav_menu_item[8610]":true,"buzzblogpro_options[topmenu_submenu_bg_color]":true,"nav_menu_item[8609]":true,"buzzblogpro_options[topmenu_submenu_button_border_bottom_color]":true,"nav_menu_item[8614]":true,"nav_menu_item[8599]":true,"buzzblogpro_options[top_container_bg_color]":true,"nav_menu_item[8600]":true,"nav_menu_item[8601]":true,"nav_menu_item[8613]":true,"nav_menu_item[8699]":true,"buzzblogpro_options[global_color]":true,"nav_menu_item[8701]":true,"nav_menu_item[8700]":true,"nav_menu_item[8602]":true,"buzzblogpro_options[links_underline_color]":true,"nav_menu_item[8630]":true,"nav_menu_item[8606]":true,"buzzblogpro_options[buttons_radius]":true,"buzzblogpro_options[content_around_shadow]":true,"site_icon":true,"buzzblogpro_options[logo_type]":true,"buzzblogpro_options[logo_url]":true,"buzzblogpro_options[header_logo_width]":true,"buzzblogpro_options[footer_logo_url]":true,"buzzblogpro_options[footer_logo_width]":true,"buzzblogpro_options[logo_tagline]":true,"buzzblogpro_options[header_position]":true,"buzzblogpro_options[hamburger_menu]":true,"buzzblogpro_options[side_panel_bg_overlay_color]":true,"buzzblogpro_options[hamburger_menu_color]":true,"buzzblogpro_options[logo_image]":true,"buzzblogpro_options[logo_image_url]":true,"buzzblogpro_options[megamenu_items_image_width]":true,"buzzblogpro_options[megamenu_items_image_height]":true,"buzzblogpro_options[megamenu_height]":true,"buzzblogpro_options[megamenu_date_color]":true,"buzzblogpro_options[g_search_box_id]":true,"buzzblogpro_options[mainmenu_button_bg_color_transparent]":true,"buzzblogpro_options[mainmenu_button_active_border_color]":true,"buzzblogpro_options[mainmenu_between_color]":true,"buzzblogpro_options[mainmenu_submenu_bg_color]":true,"buzzblogpro_options[mainmenu_submenu_button_color_regular]":true,"buzzblogpro_options[mainmenu_submenu_button_color_hover]":true,"buzzblogpro_options[mainmenu_submenu_button_color_active]":true,"buzzblogpro_options[mainmenu_submenu_button_border_bottom_color]":true,"buzzblogpro_options[mainmenu_shadow_menu]":true,"buzzblogpro_options[bgmenu_color]":true,"buzzblogpro_options[sticky_bgmenu_color]":true,"buzzblogpro_options[lineabove_color]":true,"buzzblogpro_options[lineabove_border_thick]":true,"buzzblogpro_options[linebelow_color]":true,"buzzblogpro_options[linebelow_border_thick]":true,"buzzblogpro_options[blog_sidebar_pos]":true,"buzzblogpro_options[lazyload_images]":true,"buzzblogpro_options[ligtbox_images]":true,"buzzblogpro_options[do_not_dublicate]":true,"buzzblogpro_options[blog_text]":true,"buzzblogpro_options[blog_sub]":true,"buzzblogpro_options[meta_posts_alignment]":true,"buzzblogpro_options[post_author]":true,"buzzblogpro_options[post_author_box]":true,"buzzblogpro_options[full_content]":true,"buzzblogpro_options[featured_images]":true,"buzzblogpro_options[post_excerpt]":true,"buzzblogpro_options[blog_excerpt_count]":true,"buzzblogpro_options[blog_excerpt_allowed_tags]":true,"buzzblogpro_options[post_date]":true,"buzzblogpro_options[date_format]":true,"buzzblogpro_options[pagination_type]":true,"buzzblogpro_options[loadmore_offset]":true,"buzzblogpro_options[single_pagination_type]":true,"buzzblogpro_options[post_category]":true,"buzzblogpro_options[post_tag]":true,"buzzblogpro_options[post_comment]":true,"buzzblogpro_options[post_likes]":true,"buzzblogpro_options[reading_time]":true,"buzzblogpro_options[locations]":true,"buzzblogpro_options[post_views]":true,"buzzblogpro_options[related_post]":true,"buzzblogpro_options[numberof_related posts]":true,"buzzblogpro_options[related_post_single]":true,"buzzblogpro_options[most-popular_post]":true,"buzzblogpro_options[enable_pinit_button]":true,"buzzblogpro_options[pinit_image]":true,"buzzblogpro_options[readmore_button]":true,"buzzblogpro_options[featured_badge_text_color]":true,"buzzblogpro_options[featured_badge_bg_color]":true,"buzzblogpro_options[post_overlay_color]":true,"buzzblogpro_options[modern_post_meta_text_color]":true,"buzzblogpro_options[modern_post_title_text_color]":true,"buzzblogpro_options[post_sidebar_pos]":true,"buzzblogpro_options[post_layout_options]":true,"buzzblogpro_options[page_sidebar_pos]":true,"buzzblogpro_options[page_layout_options]":true,"buzzblogpro_options[blog_cat_sidebar_pos]":true,"buzzblogpro_options[folio_filter]":true,"buzzblogpro_options[category_name]":true,"buzzblogpro_options[category_word]":true,"buzzblogpro_options[items_cat_count]":true,"buzzblogpro_options[custom-signature-display]":true,"buzzblogpro_options[custom-signature-image]":true,"buzzblogpro_options[signature_text]":true,"buzzblogpro_options[slideshow_enable]":true,"buzzblogpro_options[woocommerce_slideshow_enable]":true,"buzzblogpro_options[blog_slideshow]":true,"buzzblogpro_options[slideshow_container_width]":true,"buzzblogpro_options[slideshow_layout]":true,"buzzblogpro_options[slideshow_caption_type]":true,"buzzblogpro_options[enable_parallax]":true,"buzzblogpro_options[enable_video]":true,"buzzblogpro_options[slide_video_start]":true,"buzzblogpro_options[slide_video_end]":true,"buzzblogpro_options[enable_center_mode]":true,"buzzblogpro_options[posts_by_id]":true,"buzzblogpro_options[products_by_id]":true,"buzzblogpro_options[posts_by_cat]":true,"buzzblogpro_options[howmany_slides]":true,"buzzblogpro_options[howmany_desktop]":true,"buzzblogpro_options[howmany_tablet]":true,"buzzblogpro_options[howmany_mobile]":true,"buzzblogpro_options[slideshow_thumbwidth]":true,"buzzblogpro_options[slideshow_thumbheight]":true,"buzzblogpro_options[slideshow_margin]":true,"buzzblogpro_options[slideshow_date]":true,"buzzblogpro_options[slideshow_cat_name]":true,"buzzblogpro_options[slideshow_viewpost]":true,"buzzblogpro_options[slideshow_excerpt_words]":true,"buzzblogpro_options[slideshow_autoplay]":true,"buzzblogpro_options[slideshow_pause]":true,"buzzblogpro_options[slideshow_displaynavs]":true,"buzzblogpro_options[slideshow_displaypagination]":true,"buzzblogpro_options[slideshow_overlay_link]":true,"buzzblogpro_options[slideshow_overlay_color]":true,"buzzblogpro_options[slideshow_overlay_gradient]":true,"buzzblogpro_options[slideshow_caption_bg_color]":true,"buzzblogpro_options[slideshow_text_color]":true,"buzzblogpro_options[trending_slideshow]":true,"buzzblogpro_options[trending_slideshow_type]":true,"buzzblogpro_options[trending_slideshow_image_width]":true,"buzzblogpro_options[trending_slideshow_image_height]":true,"buzzblogpro_options[trending_howmany_slides]":true,"buzzblogpro_options[trending_howmany_desktop]":true,"buzzblogpro_options[trending_howmany_tablet]":true,"buzzblogpro_options[trending_howmany_mobile]":true,"buzzblogpro_options[trending_slideshow_margin_items]":true,"buzzblogpro_options[trending_slideshow_autoplay]":true,"buzzblogpro_options[promotion_enable]":true,"buzzblogpro_options[promotion_overlay_color]":true,"buzzblogpro_options[promotion_slideshow_margin_items]":true,"buzzblogpro_options[promo_image_width]":true,"buzzblogpro_options[promo_image_height]":true,"buzzblogpro_options[social_share]":true,"buzzblogpro_options[shareon]":true,"buzzblogpro_options[facebook_share]":true,"buzzblogpro_options[twitter_share]":true,"buzzblogpro_options[hs_twitter_username]":true,"buzzblogpro_options[gplus_share]":true,"buzzblogpro_options[linkedin_share]":true,"buzzblogpro_options[pinterest_share]":true,"buzzblogpro_options[tumblr_share]":true,"buzzblogpro_options[vkontakte_share]":true,"buzzblogpro_options[whatsapp_share]":true,"buzzblogpro_options[email_share]":true,"buzzblogpro_options[post_author_share]":true,"buzzblogpro_options[post_comments_share]":true,"buzzblogpro_options[fixed_social_share]":true,"buzzblogpro_options[fixed_facebook_url]":true,"buzzblogpro_options[fixed_twitter_url]":true,"buzzblogpro_options[fixed_pinterest_url]":true,"buzzblogpro_options[fixed_instagram_url]":true,"buzzblogpro_options[fixed_bloglovin_url]":true,"buzzblogpro_options[fixed_youtube_url]":true,"buzzblogpro_options[fixed_liketoknow_url]":true,"buzzblogpro_options[fixed_rss_url]":true,"buzzblogpro_options[fixed_links_bg_color]":true,"buzzblogpro_options[fixed_links_hover_bg_color]":true,"buzzblogpro_options[blog_grid_special_post]":true,"buzzblogpro_options[shop_the_post]":true,"buzzblogpro_options[blog_grid_image_width]":true,"buzzblogpro_options[blog_grid_image_height]":true,"buzzblogpro_options[blog_grid_crop_images]":true,"buzzblogpro_options[blog_grid_gif_images]":true,"buzzblogpro_options[blog_grid_skip_excerpt]":true,"buzzblogpro_options[blog_list_special_post]":true,"buzzblogpro_options[blog_list_image_width]":true,"buzzblogpro_options[blog_list_image_height]":true,"buzzblogpro_options[blog_list_image_left]":true,"buzzblogpro_options[blog_list_gif_images]":true,"buzzblogpro_options[blog_list_skip_excerpt]":true,"buzzblogpro_options[blog_list_proportions]":true,"buzzblogpro_options[blog_zigzag_image_width]":true,"buzzblogpro_options[blog_zigzag_image_height]":true,"buzzblogpro_options[blog_zigzag_proportions]":true,"buzzblogpro_options[gallery_layout]":true,"buzzblogpro_options[gallery_columns]":true,"buzzblogpro_options[images_per_page]":true,"buzzblogpro_options[gallery_cat_filter]":true,"buzzblogpro_options[gallery_title]":true,"buzzblogpro_options[gallery_image_width]":true,"buzzblogpro_options[gallery_image_height]":true,"buzzblogpro_options[gallery_category]":true,"buzzblogpro_options[gallery_description]":true,"buzzblogpro_options[gallery_excerpt_count]":true,"buzzblogpro_options[sidebar_width]":true,"buzzblogpro_options[sidebar_sticky]":true,"buzzblogpro_options[sidebar_heading_bgcolor]":true,"buzzblogpro_options[sidebar_heading_arrow_enable]":true,"buzzblogpro_options[footer_text]":true,"buzzblogpro_options[feed_url]":true,"buzzblogpro_options[bottom_layout]":true,"buzzblogpro_options[footer_menu]":true,"buzzblogpro_options[footer_logo]":true,"buzzblogpro_options[footer_lowest]":true,"buzzblogpro_options[footer_lowest_fullwidth]":true,"buzzblogpro_options[footer_text_color]":true,"buzzblogpro_options[footer_logo_tagline_color]":true,"buzzblogpro_options[footerline_color]":true,"buzzblogpro_options[instagram_footer_text_color]":true,"buzzblogpro_options[cookie_banner]":true,"buzzblogpro_options[cookie_more_info_url]":true,"buzzblogpro_options[cookie_text]":true,"buzzblogpro_options[newsletter_image_url]":true,"buzzblogpro_options[mailchimp_apikey]":true,"buzzblogpro_options[hs_newsletter_display]":true,"buzzblogpro_options[newsletter-cookie-onload]":true,"buzzblogpro_options[login_form_logo]":true,"buzzblogpro_options[login_form_image_bg]":true,"buzzblogpro_options[woocommerce_title]":true,"buzzblogpro_options[woocommerce_subtitle]":true,"buzzblogpro_options[woocommerce_sidebar_pos]":true,"buzzblogpro_options[woocommerce_items_per_page]":true,"buzzblogpro_options[woocommerce_cart_icon]":true,"buzzblogpro_options[woocommerce_slideshow_disable]":true,"buzzblogpro_options[twitter_consumer_key]":true,"buzzblogpro_options[twitter_consumer_secret]":true,"buzzblogpro_options[review_system]":true,"buzzblogpro_options[enable_score]":true,"buzzblogpro_options[review_bar_color]":true,"buzzblogpro_options[overallscore_bg_color]":true,"buzzblogpro_options[overallscore_text_color_value]":true,"buzzblogpro_options[theme_update_username]":true,"buzzblogpro_options[theme_update_apikey]":true,"sidebars_widgets[hs_main_sidebar]":true,"widget_recent-posts[2]":true,"widget_categories[2]":true,"widget_buzzblogpro_aboutmebox[1]":true,"widget_buzzblogpro-social[1]":true,"widget_buzzblogpro_pinterest_widget[1]":true,"widget_buzzblogpro_postsblock2[1]":true,"sidebars_widgets[hs_under_first_post]":true,"sidebars_widgets[hs_under_second_post]":true,"sidebars_widgets[hs_under_third_post]":true,"sidebars_widgets[hs_under_fourth_post]":true,"sidebars_widgets[hs_under_fifth_post]":true,"sidebars_widgets[hs_front_page_1]":true,"sidebars_widgets[hs_before_blog]":true,"widget_buzzblogpro_postsblock3[1]":true,"sidebars_widgets[hs_top_instagram]":true,"sidebars_widgets[hs_top_0]":true,"sidebars_widgets[hs_top_1]":true,"sidebars_widgets[hs_top_2]":true,"sidebars_widgets[hs_bottom_1]":true,"widget_buzzblogpro_mailchimp_widget[1]":true,"sidebars_widgets[hs_bottom_2]":true,"widget_buzzblogpro-social[2]":true,"sidebars_widgets[hs_bottom_3]":true,"widget_buzzblogpro-twitter[1]":true,"sidebars_widgets[hs_instagram_area]":true,"widget_instagram-widget[1]":true,"sidebars_widgets[hs_bottom_4]":true,"sidebars_widgets[hs_under_header]":true,"sidebars_widgets[hs_under_header_logo]":true,"sidebars_widgets[hs_left_header_logo]":true,"sidebars_widgets[hs_right_header_logo]":true,"sidebars_widgets[hs_left_fullwidthleftright_menu]":true,"widget_buzzblogpro-social[3]":true,"sidebars_widgets[hs_right_fullwidthleftright_menu]":true,"sidebars_widgets[hs_under_footer_logo]":true,"sidebars_widgets[hs_side_panel]":true,"sidebars_widgets[hs_newsletter_popup]":true,"widget_buzzblogpro_mailchimp_widget[2]":true,"sidebars_widgets[hs_single_post_widget]":true,"widget_buzzblogpro_mailchimp_widget[3]":true,"sidebars_widgets[hs_mobile_top_panel]":true,"sidebars_widgets[hs_ads]":true,"sidebars_widgets[buzzblogpro_sidebar_14]":true,"sidebars_widgets[buzzblogpro_sidebar_15]":true,"sidebars_widgets[buzzblogpro_sidebar_16]":true},"settingValidities":[],"nonce":{"save":"19aa0807e3","preview":"df4f835a42","switch_themes":"0f5e378ee1","dismiss_autosave_or_lock":"444da43465","override_lock":"ea81c992db","trash":"b7a140074a","update-widget":"8ca9ab8bd2","customize-menus":"75322a48b8"},"l10n":{"shiftClickToEdit":"Maj+clic pour modifier cet \u00e9l\u00e9ment.","linkUnpreviewable":"Ce lien ne peut pas \u00eatre pr\u00e9visualis\u00e9 en direct.","formUnpreviewable":"Ce formulaire n\u2019est pas pr\u00e9visualisable en direct."},"_dirty":[]};
+			var _wpCustomizeSettings = {"changeset":{"uuid":"6e483cac-7302-4748-8e50-58cf76eed05d","autosaved":false},"timeouts":{"selectiveRefresh":250,"keepAliveSend":1000},"theme":{"stylesheet":"buzzblogpro-child","active":true},"url":{"self":"\/nofilter\/","allowed":["http:\/\/localhost\/nofilter\/"],"allowedHosts":["localhost"],"isCrossDomain":false},"channel":"preview-0","activePanels":{"themes":true,"nav_menus":true,"widgets":true},"activeSections":{"installed_themes":true,"wporg_themes":true,"nav_menu[30]":true,"nav_menu[31]":true,"nav_menu[41]":true,"add_menu":true,"menu_locations":true,"basic":true,"hs-translate":true,"hs-header-styling":true,"hs-theme-styles":true,"hs-logo-favicon":true,"hs-navigation":true,"hs-blog":true,"hs-page-options":true,"hs-blog-categories":true,"hs-custom-signature":true,"hs-slideshow":true,"hs-trending-slideshow":true,"promo-slides":true,"hs-social":true,"hs-fixed-social":true,"hs-bloggrid":true,"hs-bloglist":true,"hs-blogzigzag":true,"hs-gallery":true,"title_tagline":true,"hs-sidebar":true,"hs-footer":true,"hs-cookie-banner":true,"hs-newsletter":true,"hs-login-form":true,"hs-woocommerce":true,"hs-twitter-settings":true,"hs-google-analytics":true,"hs-ads":true,"hs-review":true,"custom-fonts":true,"updater":true,"colors":true,"static_front_page":true,"custom_css":true,"sidebar-widgets-hs_main_sidebar":true,"sidebar-widgets-hs_under_first_post":true,"sidebar-widgets-hs_under_second_post":true,"sidebar-widgets-hs_under_third_post":true,"sidebar-widgets-hs_under_fourth_post":false,"sidebar-widgets-hs_under_fifth_post":false,"sidebar-widgets-hs_front_page_1":true,"sidebar-widgets-hs_before_blog":true,"sidebar-widgets-hs_top_instagram":true,"sidebar-widgets-hs_top_0":true,"sidebar-widgets-hs_top_1":true,"sidebar-widgets-hs_top_2":true,"sidebar-widgets-hs_bottom_1":true,"sidebar-widgets-hs_bottom_2":true,"sidebar-widgets-hs_bottom_3":true,"sidebar-widgets-hs_instagram_area":true,"sidebar-widgets-hs_bottom_4":true,"sidebar-widgets-hs_under_header":true,"sidebar-widgets-hs_under_header_logo":true,"sidebar-widgets-hs_left_header_logo":true,"sidebar-widgets-hs_right_header_logo":true,"sidebar-widgets-hs_left_fullwidthleftright_menu":false,"sidebar-widgets-hs_right_fullwidthleftright_menu":false,"sidebar-widgets-hs_under_footer_logo":true,"sidebar-widgets-hs_side_panel":true,"sidebar-widgets-hs_newsletter_popup":true,"sidebar-widgets-hs_single_post_widget":false,"sidebar-widgets-hs_mobile_top_panel":true,"sidebar-widgets-hs_ads":false,"sidebar-widgets-buzzblogpro_sidebar_14":false,"sidebar-widgets-buzzblogpro_sidebar_15":false,"sidebar-widgets-buzzblogpro_sidebar_16":false},"activeControls":{"buzzblogpro_options[hs_container_size]":true,"buzzblogpro_options[main_layout]":true,"blogname":true,"blogdescription":true,"show_on_front":true,"page_on_front":true,"page_for_posts":true,"custom_css":true,"nav_menu_locations[primary-menu]":true,"nav_menu_locations[split-right-menu]":true,"nav_menu_locations[top-menu]":true,"nav_menu_locations[mobile_menu]":true,"nav_menu_locations[footer_menu]":true,"nav_menu_item[8631]":true,"nav_menu_item[8668]":true,"nav_menu_item[8753]":true,"buzzblogpro_options[enable_translate]":true,"nav_menu_item[8632]":true,"nav_menu_item[8605]":true,"nav_menu_item[8709]":true,"buzzblogpro_options[whatdoyouthink_text]":true,"nav_menu_item[8607]":true,"nav_menu_item[8719]":true,"buzzblogpro_options[postcomment_text]":true,"nav_menu_item[8591]":true,"nav_menu_item[8708]":true,"buzzblogpro_options[reply_text]":true,"nav_menu_item[8598]":true,"nav_menu_item[8718]":true,"buzzblogpro_options[upnext_text]":true,"nav_menu_item[8589]":true,"nav_menu_item[8706]":true,"buzzblogpro_options[previously_text]":true,"nav_menu_item[8597]":true,"nav_menu_item[8716]":true,"buzzblogpro_options[continuereading_text]":true,"nav_menu_item[8592]":true,"nav_menu_item[8707]":true,"buzzblogpro_options[subscribe_text]":true,"nav_menu_item[8593]":true,"nav_menu_item[8717]":true,"buzzblogpro_options[youmightalsolike_text]":true,"nav_menu_item[8624]":true,"nav_menu_item[8710]":true,"buzzblogpro_options[min_read_text]":true,"nav_menu_item[8629]":true,"nav_menu_item[8720]":true,"buzzblogpro_options[location_text]":true,"nav_menu_item[8625]":true,"nav_menu_item[8711]":true,"buzzblogpro_options[share_on_text]":true,"nav_menu_item[8626]":true,"nav_menu_item[8721]":true,"buzzblogpro_options[before_author_text]":true,"nav_menu_item[8627]":true,"buzzblogpro_options[trending_text]":true,"nav_menu_item[8628]":true,"buzzblogpro_options[most_popular_text]":true,"nav_menu_item[8596]":true,"buzzblogpro_options[views_text]":true,"nav_menu_item[8611]":true,"buzzblogpro_options[header_layout]":true,"nav_menu_item[8615]":true,"buzzblogpro_options[split_menu_align_items]":true,"nav_menu_item[8590]":true,"buzzblogpro_options[fullwidth_menu]":true,"nav_menu_item[8612]":true,"buzzblogpro_options[remove_header_other_pages]":true,"nav_menu_item[8594]":true,"nav_menu_item[8623]":true,"buzzblogpro_options[overlay_color]":true,"nav_menu_item[8622]":true,"buzzblogpro_options[enable_header_parallax]":true,"nav_menu_item[8621]":true,"buzzblogpro_options[enable_video_home]":true,"nav_menu_item[8620]":true,"buzzblogpro_options[header_video_url]":true,"nav_menu_item[8619]":true,"buzzblogpro_options[header_video_start]":true,"nav_menu_item[8618]":true,"buzzblogpro_options[header_video_end]":true,"nav_menu_item[8617]":true,"nav_menu_item[8616]":true,"nav_menu_item[8595]":true,"nav_menu_item[8610]":true,"buzzblogpro_options[topmenu_submenu_bg_color]":true,"nav_menu_item[8609]":true,"buzzblogpro_options[topmenu_submenu_button_border_bottom_color]":true,"nav_menu_item[8614]":true,"nav_menu_item[8599]":true,"buzzblogpro_options[top_container_bg_color]":true,"nav_menu_item[8600]":true,"nav_menu_item[8601]":true,"nav_menu_item[8613]":true,"nav_menu_item[8699]":true,"buzzblogpro_options[global_color]":true,"nav_menu_item[8701]":true,"nav_menu_item[8700]":true,"nav_menu_item[8602]":true,"buzzblogpro_options[links_underline_color]":true,"nav_menu_item[8630]":true,"nav_menu_item[8606]":true,"buzzblogpro_options[buttons_radius]":true,"buzzblogpro_options[content_around_shadow]":true,"site_icon":true,"buzzblogpro_options[logo_type]":true,"buzzblogpro_options[logo_url]":true,"buzzblogpro_options[header_logo_width]":true,"buzzblogpro_options[footer_logo_url]":true,"buzzblogpro_options[footer_logo_width]":true,"buzzblogpro_options[logo_tagline]":true,"buzzblogpro_options[header_position]":true,"buzzblogpro_options[hamburger_menu]":true,"buzzblogpro_options[side_panel_bg_overlay_color]":true,"buzzblogpro_options[hamburger_menu_color]":true,"buzzblogpro_options[logo_image]":true,"buzzblogpro_options[logo_image_url]":true,"buzzblogpro_options[megamenu_items_image_width]":true,"buzzblogpro_options[megamenu_items_image_height]":true,"buzzblogpro_options[megamenu_height]":true,"buzzblogpro_options[megamenu_date_color]":true,"buzzblogpro_options[g_search_box_id]":true,"buzzblogpro_options[mainmenu_button_bg_color_transparent]":true,"buzzblogpro_options[mainmenu_button_active_border_color]":true,"buzzblogpro_options[mainmenu_between_color]":true,"buzzblogpro_options[mainmenu_submenu_bg_color]":true,"buzzblogpro_options[mainmenu_submenu_button_color_regular]":true,"buzzblogpro_options[mainmenu_submenu_button_color_hover]":true,"buzzblogpro_options[mainmenu_submenu_button_color_active]":true,"buzzblogpro_options[mainmenu_submenu_button_border_bottom_color]":true,"buzzblogpro_options[mainmenu_shadow_menu]":true,"buzzblogpro_options[bgmenu_color]":true,"buzzblogpro_options[sticky_bgmenu_color]":true,"buzzblogpro_options[lineabove_color]":true,"buzzblogpro_options[lineabove_border_thick]":true,"buzzblogpro_options[linebelow_color]":true,"buzzblogpro_options[linebelow_border_thick]":true,"buzzblogpro_options[blog_sidebar_pos]":true,"buzzblogpro_options[lazyload_images]":true,"buzzblogpro_options[ligtbox_images]":true,"buzzblogpro_options[do_not_dublicate]":true,"buzzblogpro_options[blog_text]":true,"buzzblogpro_options[blog_sub]":true,"buzzblogpro_options[meta_posts_alignment]":true,"buzzblogpro_options[post_author]":true,"buzzblogpro_options[post_author_box]":true,"buzzblogpro_options[full_content]":true,"buzzblogpro_options[featured_images]":true,"buzzblogpro_options[post_excerpt]":true,"buzzblogpro_options[blog_excerpt_count]":true,"buzzblogpro_options[blog_excerpt_allowed_tags]":true,"buzzblogpro_options[post_date]":true,"buzzblogpro_options[date_format]":true,"buzzblogpro_options[pagination_type]":true,"buzzblogpro_options[loadmore_offset]":true,"buzzblogpro_options[single_pagination_type]":true,"buzzblogpro_options[post_category]":true,"buzzblogpro_options[post_tag]":true,"buzzblogpro_options[post_comment]":true,"buzzblogpro_options[post_likes]":true,"buzzblogpro_options[reading_time]":true,"buzzblogpro_options[locations]":true,"buzzblogpro_options[post_views]":true,"buzzblogpro_options[related_post]":true,"buzzblogpro_options[numberof_related posts]":true,"buzzblogpro_options[related_post_single]":true,"buzzblogpro_options[most-popular_post]":true,"buzzblogpro_options[enable_pinit_button]":true,"buzzblogpro_options[pinit_image]":true,"buzzblogpro_options[readmore_button]":true,"buzzblogpro_options[featured_badge_text_color]":true,"buzzblogpro_options[featured_badge_bg_color]":true,"buzzblogpro_options[post_overlay_color]":true,"buzzblogpro_options[modern_post_meta_text_color]":true,"buzzblogpro_options[modern_post_title_text_color]":true,"buzzblogpro_options[post_sidebar_pos]":true,"buzzblogpro_options[post_layout_options]":true,"buzzblogpro_options[page_sidebar_pos]":true,"buzzblogpro_options[page_layout_options]":true,"buzzblogpro_options[blog_cat_sidebar_pos]":true,"buzzblogpro_options[folio_filter]":true,"buzzblogpro_options[category_name]":true,"buzzblogpro_options[category_word]":true,"buzzblogpro_options[items_cat_count]":true,"buzzblogpro_options[custom-signature-display]":true,"buzzblogpro_options[custom-signature-image]":true,"buzzblogpro_options[signature_text]":true,"buzzblogpro_options[slideshow_enable]":true,"buzzblogpro_options[woocommerce_slideshow_enable]":true,"buzzblogpro_options[blog_slideshow]":true,"buzzblogpro_options[slideshow_container_width]":true,"buzzblogpro_options[slideshow_layout]":true,"buzzblogpro_options[slideshow_caption_type]":true,"buzzblogpro_options[enable_parallax]":true,"buzzblogpro_options[enable_video]":true,"buzzblogpro_options[slide_video_start]":true,"buzzblogpro_options[slide_video_end]":true,"buzzblogpro_options[enable_center_mode]":true,"buzzblogpro_options[posts_by_id]":true,"buzzblogpro_options[products_by_id]":true,"buzzblogpro_options[posts_by_cat]":true,"buzzblogpro_options[howmany_slides]":true,"buzzblogpro_options[howmany_desktop]":true,"buzzblogpro_options[howmany_tablet]":true,"buzzblogpro_options[howmany_mobile]":true,"buzzblogpro_options[slideshow_thumbwidth]":true,"buzzblogpro_options[slideshow_thumbheight]":true,"buzzblogpro_options[slideshow_margin]":true,"buzzblogpro_options[slideshow_date]":true,"buzzblogpro_options[slideshow_cat_name]":true,"buzzblogpro_options[slideshow_viewpost]":true,"buzzblogpro_options[slideshow_excerpt_words]":true,"buzzblogpro_options[slideshow_autoplay]":true,"buzzblogpro_options[slideshow_pause]":true,"buzzblogpro_options[slideshow_displaynavs]":true,"buzzblogpro_options[slideshow_displaypagination]":true,"buzzblogpro_options[slideshow_overlay_link]":true,"buzzblogpro_options[slideshow_overlay_color]":true,"buzzblogpro_options[slideshow_overlay_gradient]":true,"buzzblogpro_options[slideshow_caption_bg_color]":true,"buzzblogpro_options[slideshow_text_color]":true,"buzzblogpro_options[trending_slideshow]":true,"buzzblogpro_options[trending_slideshow_type]":true,"buzzblogpro_options[trending_slideshow_image_width]":true,"buzzblogpro_options[trending_slideshow_image_height]":true,"buzzblogpro_options[trending_howmany_slides]":true,"buzzblogpro_options[trending_howmany_desktop]":true,"buzzblogpro_options[trending_howmany_tablet]":true,"buzzblogpro_options[trending_howmany_mobile]":true,"buzzblogpro_options[trending_slideshow_margin_items]":true,"buzzblogpro_options[trending_slideshow_autoplay]":true,"buzzblogpro_options[promotion_enable]":true,"buzzblogpro_options[promotion_overlay_color]":true,"buzzblogpro_options[promotion_slideshow_margin_items]":true,"buzzblogpro_options[promo_image_width]":true,"buzzblogpro_options[promo_image_height]":true,"buzzblogpro_options[social_share]":true,"buzzblogpro_options[shareon]":true,"buzzblogpro_options[facebook_share]":true,"buzzblogpro_options[twitter_share]":true,"buzzblogpro_options[hs_twitter_username]":true,"buzzblogpro_options[gplus_share]":true,"buzzblogpro_options[linkedin_share]":true,"buzzblogpro_options[pinterest_share]":true,"buzzblogpro_options[tumblr_share]":true,"buzzblogpro_options[vkontakte_share]":true,"buzzblogpro_options[whatsapp_share]":true,"buzzblogpro_options[email_share]":true,"buzzblogpro_options[post_author_share]":true,"buzzblogpro_options[post_comments_share]":true,"buzzblogpro_options[fixed_social_share]":true,"buzzblogpro_options[fixed_facebook_url]":true,"buzzblogpro_options[fixed_twitter_url]":true,"buzzblogpro_options[fixed_pinterest_url]":true,"buzzblogpro_options[fixed_instagram_url]":true,"buzzblogpro_options[fixed_bloglovin_url]":true,"buzzblogpro_options[fixed_youtube_url]":true,"buzzblogpro_options[fixed_liketoknow_url]":true,"buzzblogpro_options[fixed_rss_url]":true,"buzzblogpro_options[fixed_links_bg_color]":true,"buzzblogpro_options[fixed_links_hover_bg_color]":true,"buzzblogpro_options[blog_grid_special_post]":true,"buzzblogpro_options[shop_the_post]":true,"buzzblogpro_options[blog_grid_image_width]":true,"buzzblogpro_options[blog_grid_image_height]":true,"buzzblogpro_options[blog_grid_crop_images]":true,"buzzblogpro_options[blog_grid_gif_images]":true,"buzzblogpro_options[blog_grid_skip_excerpt]":true,"buzzblogpro_options[blog_list_special_post]":true,"buzzblogpro_options[blog_list_image_width]":true,"buzzblogpro_options[blog_list_image_height]":true,"buzzblogpro_options[blog_list_image_left]":true,"buzzblogpro_options[blog_list_gif_images]":true,"buzzblogpro_options[blog_list_skip_excerpt]":true,"buzzblogpro_options[blog_list_proportions]":true,"buzzblogpro_options[blog_zigzag_image_width]":true,"buzzblogpro_options[blog_zigzag_image_height]":true,"buzzblogpro_options[blog_zigzag_proportions]":true,"buzzblogpro_options[gallery_layout]":true,"buzzblogpro_options[gallery_columns]":true,"buzzblogpro_options[images_per_page]":true,"buzzblogpro_options[gallery_cat_filter]":true,"buzzblogpro_options[gallery_title]":true,"buzzblogpro_options[gallery_image_width]":true,"buzzblogpro_options[gallery_image_height]":true,"buzzblogpro_options[gallery_category]":true,"buzzblogpro_options[gallery_description]":true,"buzzblogpro_options[gallery_excerpt_count]":true,"buzzblogpro_options[sidebar_width]":true,"buzzblogpro_options[sidebar_sticky]":true,"buzzblogpro_options[sidebar_heading_bgcolor]":true,"buzzblogpro_options[sidebar_heading_arrow_enable]":true,"buzzblogpro_options[footer_text]":true,"buzzblogpro_options[feed_url]":true,"buzzblogpro_options[bottom_layout]":true,"buzzblogpro_options[footer_menu]":true,"buzzblogpro_options[footer_logo]":true,"buzzblogpro_options[footer_lowest]":true,"buzzblogpro_options[footer_lowest_fullwidth]":true,"buzzblogpro_options[footer_text_color]":true,"buzzblogpro_options[footer_logo_tagline_color]":true,"buzzblogpro_options[footerline_color]":true,"buzzblogpro_options[instagram_footer_text_color]":true,"buzzblogpro_options[cookie_banner]":true,"buzzblogpro_options[cookie_more_info_url]":true,"buzzblogpro_options[cookie_text]":true,"buzzblogpro_options[newsletter_image_url]":true,"buzzblogpro_options[mailchimp_apikey]":true,"buzzblogpro_options[hs_newsletter_display]":true,"buzzblogpro_options[newsletter-cookie-onload]":true,"buzzblogpro_options[login_form_logo]":true,"buzzblogpro_options[login_form_image_bg]":true,"buzzblogpro_options[woocommerce_title]":true,"buzzblogpro_options[woocommerce_subtitle]":true,"buzzblogpro_options[woocommerce_sidebar_pos]":true,"buzzblogpro_options[woocommerce_items_per_page]":true,"buzzblogpro_options[woocommerce_cart_icon]":true,"buzzblogpro_options[woocommerce_slideshow_disable]":true,"buzzblogpro_options[twitter_consumer_key]":true,"buzzblogpro_options[twitter_consumer_secret]":true,"buzzblogpro_options[review_system]":true,"buzzblogpro_options[enable_score]":true,"buzzblogpro_options[review_bar_color]":true,"buzzblogpro_options[overallscore_bg_color]":true,"buzzblogpro_options[overallscore_text_color_value]":true,"buzzblogpro_options[theme_update_username]":true,"buzzblogpro_options[theme_update_apikey]":true,"sidebars_widgets[hs_main_sidebar]":true,"widget_recent-posts[2]":true,"widget_categories[2]":true,"widget_buzzblogpro_aboutmebox[1]":true,"widget_buzzblogpro-social[1]":true,"widget_buzzblogpro_pinterest_widget[1]":true,"widget_buzzblogpro_postsblock2[1]":true,"sidebars_widgets[hs_under_first_post]":true,"sidebars_widgets[hs_under_second_post]":true,"sidebars_widgets[hs_under_third_post]":true,"sidebars_widgets[hs_under_fourth_post]":true,"sidebars_widgets[hs_under_fifth_post]":true,"sidebars_widgets[hs_front_page_1]":true,"sidebars_widgets[hs_before_blog]":true,"widget_buzzblogpro_postsblock3[1]":true,"sidebars_widgets[hs_top_instagram]":true,"sidebars_widgets[hs_top_0]":true,"sidebars_widgets[hs_top_1]":true,"sidebars_widgets[hs_top_2]":true,"sidebars_widgets[hs_bottom_1]":true,"widget_buzzblogpro_mailchimp_widget[1]":true,"sidebars_widgets[hs_bottom_2]":true,"widget_buzzblogpro-social[2]":true,"sidebars_widgets[hs_bottom_3]":true,"widget_buzzblogpro-twitter[1]":true,"sidebars_widgets[hs_instagram_area]":true,"widget_instagram-widget[1]":true,"sidebars_widgets[hs_bottom_4]":true,"sidebars_widgets[hs_under_header]":true,"sidebars_widgets[hs_under_header_logo]":true,"sidebars_widgets[hs_left_header_logo]":true,"sidebars_widgets[hs_right_header_logo]":true,"sidebars_widgets[hs_left_fullwidthleftright_menu]":true,"widget_buzzblogpro-social[3]":true,"sidebars_widgets[hs_right_fullwidthleftright_menu]":true,"sidebars_widgets[hs_under_footer_logo]":true,"sidebars_widgets[hs_side_panel]":true,"sidebars_widgets[hs_newsletter_popup]":true,"widget_buzzblogpro_mailchimp_widget[2]":true,"sidebars_widgets[hs_single_post_widget]":true,"widget_buzzblogpro_mailchimp_widget[3]":true,"sidebars_widgets[hs_mobile_top_panel]":true,"sidebars_widgets[hs_ads]":true,"sidebars_widgets[buzzblogpro_sidebar_14]":true,"sidebars_widgets[buzzblogpro_sidebar_15]":true,"sidebars_widgets[buzzblogpro_sidebar_16]":true},"settingValidities":[],"nonce":{"save":"d3e2da9c32","preview":"dc18f623c1","switch_themes":"1846988043","dismiss_autosave_or_lock":"eac29dbe3a","override_lock":"3e3dadd283","trash":"40e44a9d03","update-widget":"0ae8ceaddf","customize-menus":"2e35d53cb1"},"l10n":{"shiftClickToEdit":"Maj+clic pour modifier cet \u00e9l\u00e9ment.","linkUnpreviewable":"Ce lien ne peut pas \u00eatre pr\u00e9visualis\u00e9 en direct.","formUnpreviewable":"Ce formulaire n\u2019est pas pr\u00e9visualisable en direct."},"_dirty":[]};
 			_wpCustomizeSettings.values = {};
 			(function( v ) {
 				v["active_theme"] = "";
@@ -2491,7 +2378,7 @@ v["buzzblogpro_options[slideshow_caption_type]"] = "underneath";
 v["buzzblogpro_options[enable_parallax]"] = "yes";
 v["buzzblogpro_options[enable_video]"] = "yes";
 v["buzzblogpro_options[slide_video_start]"] = "4";
-v["buzzblogpro_options[slide_video_end]"] = "12";
+v["buzzblogpro_options[slide_video_end]"] = "15";
 v["buzzblogpro_options[enable_center_mode]"] = "no";
 v["buzzblogpro_options[top_slideshow_margin]"] = {"margin-top":"30px","margin-bottom":"0px"};
 v["buzzblogpro_options[top_slideshow_padding]"] = {"padding-top":"0px","padding-bottom":"0px"};
@@ -2736,26 +2623,19 @@ v["nav_menu_item[8602]"] = {"menu_item_parent":0,"object_id":5,"object":"categor
 v["nav_menu_item[8630]"] = {"menu_item_parent":0,"object_id":588,"object":"page","type":"post_type","type_label":"Page","url":"http:\/\/localhost\/nofilter\/about-me\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":31,"position":42,"status":"publish","original_title":"About me","_invalid":false};
 v["nav_menu_item[8606]"] = {"menu_item_parent":8630,"object_id":8606,"object":"custom","type":"custom","type_label":"Lien personnalis\u00e9","title":"Hercules - About me box","url":"#buzzblogpro_aboutmebox","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":31,"position":43,"status":"publish","original_title":"","_invalid":false};
 v["nav_menu[41]"] = {"name":"Mega New Menu","description":"","parent":0,"auto_add":false};
-v["nav_menu_item[8702]"] = {"menu_item_parent":0,"object_id":3,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/beauty\/","title":"","target":"","attr_title":"","description":"Beauty has so many forms, and I think the most beautiful thing is confidence and loving yourself.","classes":"","xfn":"","nav_menu_term_id":41,"position":1,"status":"publish","original_title":"Inspiration","_invalid":false};
-v["nav_menu_item[8712]"] = {"menu_item_parent":8702,"object_id":3,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/beauty\/","title":"","target":"","attr_title":"","description":"Beauty has so many forms, and I think the most beautiful thing is confidence and loving yourself.","classes":"","xfn":"","nav_menu_term_id":41,"position":2,"status":"publish","original_title":"Inspiration","_invalid":false};
-v["nav_menu_item[8703]"] = {"menu_item_parent":0,"object_id":5,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/travel\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":3,"status":"publish","original_title":"Travel","_invalid":false};
-v["nav_menu_item[8713]"] = {"menu_item_parent":8703,"object_id":5,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/travel\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":4,"status":"publish","original_title":"Travel","_invalid":false};
-v["nav_menu_item[8704]"] = {"menu_item_parent":0,"object_id":4,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/personal\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":5,"status":"publish","original_title":"Personal","_invalid":false};
-v["nav_menu_item[8714]"] = {"menu_item_parent":8704,"object_id":4,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/personal\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":6,"status":"publish","original_title":"Personal","_invalid":false};
-v["nav_menu_item[8705]"] = {"menu_item_parent":0,"object_id":2,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/fashion\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":7,"status":"publish","original_title":"Fashion","_invalid":false};
-v["nav_menu_item[8715]"] = {"menu_item_parent":8705,"object_id":2,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/fashion\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":8,"status":"publish","original_title":"Fashion","_invalid":false};
-v["nav_menu_item[8706]"] = {"menu_item_parent":0,"object_id":35,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/musique\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":9,"status":"publish","original_title":"Musique","_invalid":false};
-v["nav_menu_item[8716]"] = {"menu_item_parent":8706,"object_id":35,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/musique\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":10,"status":"publish","original_title":"Musique","_invalid":false};
-v["nav_menu_item[8707]"] = {"menu_item_parent":0,"object_id":36,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/societe\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":11,"status":"publish","original_title":"Soci\u00e9t\u00e9","_invalid":false};
-v["nav_menu_item[8717]"] = {"menu_item_parent":8707,"object_id":36,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/societe\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":12,"status":"publish","original_title":"Soci\u00e9t\u00e9","_invalid":false};
-v["nav_menu_item[8708]"] = {"menu_item_parent":0,"object_id":37,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/arts\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":13,"status":"publish","original_title":"Arts","_invalid":false};
-v["nav_menu_item[8718]"] = {"menu_item_parent":8708,"object_id":37,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/arts\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":14,"status":"publish","original_title":"Arts","_invalid":false};
-v["nav_menu_item[8709]"] = {"menu_item_parent":0,"object_id":38,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/lifestyle\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":15,"status":"publish","original_title":"Lifestyle","_invalid":false};
-v["nav_menu_item[8719]"] = {"menu_item_parent":8709,"object_id":38,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/lifestyle\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":16,"status":"publish","original_title":"Lifestyle","_invalid":false};
-v["nav_menu_item[8710]"] = {"menu_item_parent":0,"object_id":39,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/sciences\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":17,"status":"publish","original_title":"Sciences","_invalid":false};
-v["nav_menu_item[8720]"] = {"menu_item_parent":8710,"object_id":39,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/sciences\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":18,"status":"publish","original_title":"Sciences","_invalid":false};
-v["nav_menu_item[8711]"] = {"menu_item_parent":0,"object_id":40,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/evenements\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":19,"status":"publish","original_title":"Ev\u00e8nements","_invalid":false};
-v["nav_menu_item[8721]"] = {"menu_item_parent":8711,"object_id":40,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/evenements\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":20,"status":"publish","original_title":"Ev\u00e8nements","_invalid":false};
+v["nav_menu_item[8753]"] = {"menu_item_parent":0,"object_id":8753,"object":"custom","type":"custom","type_label":"Lien personnalis\u00e9","title":"nofilter","url":"http:\/\/localhost\/nofilter","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":1,"status":"publish","original_title":"","_invalid":false};
+v["nav_menu_item[8709]"] = {"menu_item_parent":0,"object_id":38,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/lifestyle\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":2,"status":"publish","original_title":"Lifestyle","_invalid":false};
+v["nav_menu_item[8719]"] = {"menu_item_parent":8709,"object_id":38,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/lifestyle\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":3,"status":"publish","original_title":"Lifestyle","_invalid":false};
+v["nav_menu_item[8708]"] = {"menu_item_parent":0,"object_id":37,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/arts\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":4,"status":"publish","original_title":"Arts","_invalid":false};
+v["nav_menu_item[8718]"] = {"menu_item_parent":8708,"object_id":37,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/arts\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":5,"status":"publish","original_title":"Arts","_invalid":false};
+v["nav_menu_item[8706]"] = {"menu_item_parent":0,"object_id":35,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/musique\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":6,"status":"publish","original_title":"Musique","_invalid":false};
+v["nav_menu_item[8716]"] = {"menu_item_parent":8706,"object_id":35,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/musique\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":7,"status":"publish","original_title":"Musique","_invalid":false};
+v["nav_menu_item[8707]"] = {"menu_item_parent":0,"object_id":36,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/societe\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":8,"status":"publish","original_title":"Soci\u00e9t\u00e9","_invalid":false};
+v["nav_menu_item[8717]"] = {"menu_item_parent":8707,"object_id":36,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/societe\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":9,"status":"publish","original_title":"Soci\u00e9t\u00e9","_invalid":false};
+v["nav_menu_item[8710]"] = {"menu_item_parent":0,"object_id":39,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/sciences\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":10,"status":"publish","original_title":"Sciences","_invalid":false};
+v["nav_menu_item[8720]"] = {"menu_item_parent":8710,"object_id":39,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/sciences\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":11,"status":"publish","original_title":"Sciences","_invalid":false};
+v["nav_menu_item[8711]"] = {"menu_item_parent":0,"object_id":40,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/evenements\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":12,"status":"publish","original_title":"Ev\u00e8nements","_invalid":false};
+v["nav_menu_item[8721]"] = {"menu_item_parent":8711,"object_id":40,"object":"category","type":"taxonomy","type_label":"Cat\u00e9gorie","url":"http:\/\/localhost\/nofilter\/category\/evenements\/","title":"","target":"","attr_title":"","description":"","classes":"","xfn":"","nav_menu_term_id":41,"position":13,"status":"publish","original_title":"Ev\u00e8nements","_invalid":false};
 v["nav_menus_created_posts"] = [];
 v["widget_pages[1]"] = {"encoded_serialized_instance":"YTowOnt9","title":"","is_widget_customizer_js_value":true,"instance_hash_key":"b8fbc3c8cad3ef516260142622426834"};
 v["widget_calendar[1]"] = {"encoded_serialized_instance":"YTowOnt9","title":"","is_widget_customizer_js_value":true,"instance_hash_key":"b8fbc3c8cad3ef516260142622426834"};
@@ -2837,5 +2717,5 @@ v["sidebars_widgets[buzzblogpro_sidebar_16]"] = [];
 		</script>
 		<script>var _customizePartialRefreshExports = {"partials":[],"renderQueryVar":"wp_customize_render_partials","l10n":{"shiftClickToEdit":"Maj+clic pour modifier cet \u00e9l\u00e9ment.","clickEditMenu":"Cliquez pour modifier ce menu.","clickEditWidget":"Cliquez pour modifier ce widget.","clickEditTitle":"Cliquez pour modifier le titre du site.","clickEditMisc":"Cliquez pour modifier cet \u00e9l\u00e9ment.","badDocumentWrite":"document.write() est interdit"}};</script></body>
 </html>
-<!-- Dynamic page generated in 2.293 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2019-02-03 23:19:15 -->
+<!-- Dynamic page generated in 1.603 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2019-02-07 17:53:45 -->
